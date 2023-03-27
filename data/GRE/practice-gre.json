@@ -316,7 +316,7 @@
                     ]
                 }
             ],
-            "answer": [],
+            "answer": ["C", "E"],
             "p+": null,
             "explanation": ""
         },
@@ -378,8 +378,70 @@
                     ]
                 }
             ],
-            "answer": ["C", "E", "G"],
+            "answer": ["C", "F", "G"],
             "p+": null,
+            "explanation": ""
+        },
+        "S3Q8": {
+            "section": 3,
+            "type": "text_completion",
+            "passage": {},
+            "prompt": "If one could don magic spectacles–with lenses that make the murky depths of the ocean become transparent–and look back several centuries to an age before widespread abuse of the oceans began, even the most (i)_____ observer would quickly discover taht fish were formerly much more abundant. Likewise, many now-depleted species of marine mammals would appear (ii)_____. But without such special glasses the differences between past and present oceans are indeed hard to (iii)_____.",
+            "blanks": [
+                {
+                    "id": "i",
+                    "choices": [
+                        {
+                            "label": "A",
+                            "text": "casual"
+                        },
+                        {
+                            "label": "B",
+                            "text": "prescient"
+                        },
+                        {
+                            "label": "C",
+                            "text": "clearheaded"
+                        }
+                    ]
+                },
+                {
+                    "id": "ii",
+                    "choices": [
+                        {
+                            "label": "D",
+                            "text": "threatened"
+                        },
+                        {
+                            "label": "E",
+                            "text": "plentiful"
+                        },
+                        {
+                            "label": "F",
+                            "text": "unfamiliar"
+                        }
+                    ]
+                },
+                {
+                    "id": "iii",
+                    "choices": [
+                        {
+                            "label": "G",
+                            "text": "ignore"
+                        },
+                        {
+                            "label": "H",
+                            "text": "discern"
+                        },
+                        {
+                            "label": "I",
+                            "text": "dismiss"
+                        }
+                    ]
+                }
+            ],
+            "answer": ["A", "E", "H"],
+            "p+": 69,
             "explanation": ""
         },
         
