@@ -1,0 +1,418 @@
+{
+    "lines": {
+        "S4_Questions_9_12": {
+            "title": "S4 Questions 9-12",
+            "content": [
+                "The work of English writer Aphra Behn",
+                "(1640-1689) changed markedly during the 1680s, as",
+                "she turned from writing plays to writing prose",
+                "narratives. According to literary critic",
+                "Rachel Carnell, most scholars view this change as",
+                "primarily motivated by financial considerations:",
+                "earning a living by writing for the theatre became",
+                "more difficult in the 1680s, so Behn tried various",
+                "other types of prose genres in the hope of finding",
+                "another lucrative medium. In fact, a long epistolary",
+                "scandal novel that she wrote in the mid-1680s sold",
+                "quite well. Yet, as Carnell notes, Behn did not repeat",
+                "this approach in her other prose works; instead, she",
+                "turned to writing shorter, more serious novels, even",
+                "though only about half of these were published during",
+                "her lifetime. Carnell argues that Behn, whose stage",
+                "productions are primarily comedies, may have turned",
+                "to an emerging literary form, the novel, in a conscious",
+                "attempt to criticize, and subvert for her own ends, the",
+                "conventions and ideology of a well-established form",
+                "of her day, the dramatic tragedy.",
+                "Carnell acknowledges that Behn admired the skill",
+                "of such contemporary writers of dramatic tragedy as",
+                "John Dryden, and that Behn's own comic stage",
+                "productions displayed the same partisanship for the",
+                "reigning Stuart monarchy that characterized most of",
+                "the politically oriented dramatic tragedies of her day.",
+                "However, Carnell argues that Behn took issue with",
+                "the way in which these writers and plays defined the",
+                "nature of tragedy. As prescribed by Dryden, tragedy",
+                "was supposed to concern a heroic man who is a public",
+                "figure and who undergoes a fall that evokes pity from",
+                "the audience. Carnell points out that Behn's tragic",
+                "novels focus instead on the plight of little-known",
+                "women and the private world of the household; even",
+                "in her few novels featuring male protagonists, Behn",
+                "insists on the importance of the crimes these",
+                "otherwise heroic figures commit in the domestic",
+                "sphere. Moreover, according to Carnell, Behn",
+                "questioned the view promulgated by monarchist",
+                "dramatic tragedies such as Dryden's: that the",
+                "envisioned \"public\" political ideal–passive",
+                "obedience to the nation's king–ought to be mirrored",
+                "in the private sphere, with family members wholly",
+                "obedient to a male head of household. Carnell sees",
+                "Behn's novels not only as rejecting the model of",
+                "patriarchal and hierarchical family order, but also as",
+                "warning that insisting on such a parallel can result in",
+                "real tragedy befalling the members of the domestic",
+                "sphere. According to Carnell, Behn's choice of",
+                "literary form underscores the differences between her",
+                "own approach to crafting a tragic story and that taken",
+                "in the dramatic tragedies, with their artificial",
+                "distinction between the public and private spheres.",
+                "Behn's novels engage in the political dialogue of her",
+                "era by demonstrating that the good of the nation",
+                "ultimately encompasses more than the good of the",
+                "public figures who rule it."
+                ] 
+        },
+        "S4_Questions_13_14": [
+            // lines for the passage used in Questions 13-14
+        ],
+        "S4_Question_15": [
+            // lines for the passage used in Question 15
+        ],
+        "S4_Questions_16_19": [
+            // lines for the passage used in Questions 16-19
+        ],
+        "S4_Questions_20_25": [
+            // lines for the passage used in Questions 20-25
+        ]
+    },
+    "questions": {
+        "S3Q1": {
+            "section": 3,
+            "type": "text_completion",
+            "passage": {},
+            "prompt": "Many find it strange that her writing is thought to be tortuous; her recent essays, although longer than most of her earlier essays, are extremely __________.",
+            "blanks": [
+                {
+                    "id": "i",
+                    "choices": [
+                        {
+                            "label": "A",
+                            "text": "painstaking"
+                        },
+                        {
+                            "label": "B",
+                            "text": "tedious"
+                        },
+                        {
+                            "label": "C",
+                            "text": "insightful"
+                        },
+                        {
+                            "label": "D",
+                            "text": "sophisticated"
+                        },
+                        {
+                            "label": "E",
+                            "text": "clear"
+                        }
+                    ]
+                }
+            ],
+            "answer": ["E"],
+            "p+": 57,
+            "explanation": "optional_explanation_text_1"
+        },
+        "S3Q2": {
+            "section": 3,
+            "type": "text_completion",
+            "passage": {},
+            "prompt": "Most spacecraft are still at little risk of collision with space debris during their operational lifetimes, but given the numbers of new satellites launched each year, the orbital environment in the future is likely to be less __________.",
+            "blanks": [
+                {
+                    "id": "i",
+                    "choices": [
+                        {
+                            "label": "A",
+                            "text": "crowded"
+                        },
+                        {
+                            "label": "B",
+                            "text": "invulnerable"
+                        },
+                        {
+                            "label": "C",
+                            "text": "protected"
+                        },
+                        {
+                            "label": "D",
+                            "text": "polluted"
+                        },
+                        {
+                            "label": "E",
+                            "text": "benign"
+                        }
+                    ]
+                }
+            ],
+            "answer": ["E"],
+            "p+": 49,
+            "explanation": "optional_explanation_text_2"
+        },
+        "S3Q3": {
+            "section": 3,
+            "type": "text_completion",
+            "passage": {},
+            "prompt": "The author presents the life of Zane Grey with __________ unusual in a biographer: he is not even convinced that Grey was a good writer",
+            "blanks": [
+                {
+                    "id": "i",
+                    "choices": [
+                        {
+                            "label": "A",
+                            "text": "a zeal"
+                        },
+                        {
+                            "label": "B",
+                            "text": "a deftness"
+                        },
+                        {
+                            "label": "C",
+                            "text": "a detachment"
+                        },
+                        {
+                            "label": "D",
+                            "text": "an eloquence"
+                        },
+                        {
+                            "label": "E",
+                            "text": "an imaginativeness"
+                        }
+                    ]
+                }
+            ],
+            "answer": ["C"],
+            "p+": 72,
+            "explanation": "optional_explanation_text_3"
+        },
+        "S3Q4": {
+            "section": 3,
+            "type": "text_completion",
+            "passage": {},
+            "prompt": "The unironic representation of objects from everyday life is (i) serious American art of the twentieth century: \"high\" artists ceded the straightforward depiction of the (ii) __________ to illustrators, advertisers, and packaging designers",
+            "blanks": [
+                {
+                    "id": "i",
+                    "choices": [
+                        {
+                            "label": "A",
+                            "text": "missing from"
+                        },
+                        {
+                            "label": "B",
+                            "text": "valued in"
+                        },
+                        {
+                            "label": "C",
+                            "text": "crucial to"
+                        }
+                    ]
+                },
+                {
+                    "id": "ii",
+                    "choices": [
+                        {
+                            "label": "D",
+                            "text": "Beautiful"
+                        },
+                        {
+                            "label": "E",
+                            "text": "Commonplace"
+                        },
+                        {
+                            "label": "F",
+                            "text": "Complex"
+                        }
+                    ]
+                }
+            ],
+            "answer": ["A", "E"],
+            "p+": 43,
+            "explanation": "optional_explanation_text_4"
+        },        
+        "S3Q5": {
+            "section": 3,
+            "type": "text_completion",
+            "passage": {},
+            "prompt": "A newly published, laudatory biography of George Bernard Shaw fails, like others before it, to capture the essence of his personality: the more he is (i) __________, the more his true self seems to (ii) ___________.",
+            "blanks": [
+                {
+                    "id": "i",
+                    "choices": [
+                        {
+                            "label": "A",
+                            "text": "discussed"
+                        },
+                        {
+                            "label": "B",
+                            "text": "disparaged"
+                        },
+                        {
+                            "label": "C",
+                            "text": "disregarded"
+                        }
+                    ]
+                },
+                {
+                    "id": "ii",
+                    "choices": [
+                        {
+                            "label": "D",
+                            "text": "disappear"
+                        },
+                        {
+                            "label": "E",
+                            "text": "emerge"
+                        },
+                        {
+                            "label": "F",
+                            "text": "coalesce"
+                        }
+                    ]
+                }
+            ],
+            "answer": ["A", "E"],
+            "p+": null,
+            "explanation": ""
+        },
+        "S3Q6": {
+            "section": 3,
+            "type": "text_completion",
+            "passage": {},
+            "prompt": "Although he has long had a reputation for (i) __________, his behavior toward his coworkers has always been (ii) __________, suggesting he may not be as insolent as people generally think.",
+            "blanks": [
+                {
+                    "id": "i",
+                    "choices": [
+                        {
+                            "label": "A",
+                            "text": "inscrutability"
+                        },
+                        {
+                            "label": "B",
+                            "text": "venality"
+                        },
+                        {
+                            "label": "C",
+                            "text": "impudence"
+                        }
+                    ]
+                },
+                {
+                    "id": "ii",
+                    "choices": [
+                        {
+                            "label": "D",
+                            "text": "brazen"
+                        },
+                        {
+                            "label": "E",
+                            "text": "courteous"
+                        },
+                        {
+                            "label": "F",
+                            "text": "predictable"
+                        }
+                    ]
+                }
+            ],
+            "answer": [],
+            "p+": null,
+            "explanation": ""
+        },
+        "S3Q7": {
+            "section": 3,
+            "type": "text_completion",
+            "passage": {},
+            "prompt": "There is nothing that (i) _____ scientists more than having an old problem in their field solved by someone from outside. If you doubt this (ii) _____, just think about the (iii) _____ reaction of paleontologists to the hypothesis of Luis Alvarez–a physicist– and Walter Alvarez–a geologist– that the extinction of the dinosaurs was caused by the impact of a large meteor on the surface of the planet",
+            "blanks": [
+                {
+                    "id": "i",
+                    "choices": [
+                        {
+                            "label": "A",
+                            "text": "amazes"
+                        },
+                        {
+                            "label": "B",
+                            "text": "pleases"
+                        },
+                        {
+                            "label": "C",
+                            "text": "nettles"
+                        }
+                    ]
+                },
+                {
+                    "id": "ii",
+                    "choices": [
+                        {
+                            "label": "D",
+                            "text": "exposition"
+                        },
+                        {
+                            "label": "E",
+                            "text": "objurgation"
+                        },
+                        {
+                            "label": "F",
+                            "text": "observation"
+                        }
+                    ]
+                },
+                {
+                    "id": "iii",
+                    "choices": [
+                        {
+                            "label": "G",
+                            "text": "contemptuous"
+                        },
+                        {
+                            "label": "H",
+                            "text": "indifferent"
+                        },
+                        {
+                            "label": "I",
+                            "text": "insincere"
+                        }
+                    ]
+                }
+            ],
+            "answer": ["C", "E", "G"],
+            "p+": null,
+            "explanation": ""
+        },
+        
+        "S4Q9": {
+            "section": 4,
+            "type": "reading_comprehension",
+            "lines_id": "S4_Questions_9_12",
+            "prompt": "The primary purpose of the passage is to:",
+            "choices": [
+                {
+                    "label": "A",
+                    "text": "tracing how Behn's view of the nature of tragedy changed over time"
+                },
+                {
+                    "label": "B",
+                    "text": "explaining one author's view of Behn's contribution to the development of an emerging literary form"
+                },
+                {
+                    "label": "C",
+                    "text": "differentiating between the early and the late literary works of Behn"
+                },
+                {
+                    "label": "D",
+                    "text": "contrasting the approaches to tragedy taken by Behn and by Dryden"
+                },
+                {
+                    "label": "E",
+                    "text": "presenting one scholar's explanation for a major development in Behn's literary career"
+                }
+            ],
+            "answer": ["E"],
+            "p+": null,
+            "explanation": "optional_explanation_text_9"
+        }
+    }
+}
