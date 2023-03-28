@@ -575,7 +575,630 @@
             "p+": 69,
             "explanation": ""
         },
-        
+        "S3Q9": {
+            "section": 3,
+            "type": "reading_comprehension",
+            "lines_id": "S3_Questions_9_11",
+            "prompt": "The passage suggests that the history of criminal law in early modern England differs from the history of civil law during that same period in that the history of criminal law",
+            "blanks":[
+                {
+                    "id": "i",
+                    "choices": [ 
+                        {
+                            "label": "A",
+                            "text": "is of more intellectual interest to historians and their readers"
+                        },
+                        {
+                            "label": "B",
+                            "text": "has been studied more thoroughly by historians"
+                        },
+                        {
+                            "label": "C",
+                            "text": "is more relevant to general social history"
+                        },
+                        {
+                            "label": "D",
+                            "text": "involves the study of a larger proportion of the population"
+                        },
+                        {
+                            "label": "E",
+                            "text": "does not require the mastery of an extremely formal system of procedures"
+                        }
+                    ]
+                }
+            ],
+            "answer": ["B"],
+            "p+": 58,
+            "explanation": "optional_explanation_text_9"
+        },
+        "S3Q10": {
+            "section": 3,
+            "type": "reading_comprehension",
+            "lines_id": "S3_Questions_9_11",
+            "prompt": "The author of the passage mentions the occupations of those involved in civil litigation in early modern England most likely in order to",
+            "blanks": [
+                {
+                    "id": "i",
+                    "choices": [
+                        {
+                            "label": "A",
+                            "text": "suggest that most historians' assumptions about the participants in the civil legal system during that period are probably correct"
+                        },
+                        {
+                            "label": "B",
+                            "text": "support the theory that more people participated in the civil legal system than the criminal legal system in England during that period"
+                        },
+                        {
+                            "label": "C",
+                            "text": "counter the claim that legal issues reveal more about a country's ordinary citizens than about its elite"
+                        },
+                        {
+                            "label": "D",
+                            "text": "illustrate the wide range of people who used the civil legal system in England during that period"
+                        },
+                        {
+                            "label": "E",
+                            "text": "suggest that recent data on people who participated in early modern England's legal system may not be correct"
+                        }
+                    ]
+                }
+            ],
+            "answer": ["D"],
+            "p+": 76,
+            "explanation": ""
+        },
+        "S3Q11": {
+            "section": 3,
+            "type": "reading_comprehension",
+            "lines_id": "S3_Questions_9_11",
+            "prompt": "The author of the passage suggests which of the following about the \"widespread assumption\" (line 15)?",
+            "blanks": [
+                {
+                    "id": "i",
+                    "choices": [
+                        {
+                            "label": "A",
+                            "text": "Because it is true, the history of civil law is of as much interest to historians focusing on general social history as to those specializing in legal history."
+                        },
+                        {
+                            "label": "B",
+                            "text": "Because it is inaccurate, the history of civil law in early modern England should enrich the general historical scholarship of that period."
+                        },
+                        {
+                            "label": "C",
+                            "text": "It is based on inaccurate data about the propertied male elite of early modern England."
+                        },
+                        {
+                            "label": "D",
+                            "text": "It does not provide a plausible explanation for historians' failure to study the civil law of early modern England."
+                        },
+                        {
+                            "label": "E",
+                            "text": "It is based on an analogy with criminal law in early modern England."
+                        }
+                    ]
+                }
+            ],
+            "answer":["B"],
+            "p+": 53,
+            "explanation": ""
+        },
+        "S3Q12": {
+            "section": 3,
+            "type": "reading_comprehension",
+            "lines_id": "S3_Questions_9_11",
+            "prompt": "The author discusses \"the standard view\" (line 14) most likely in order to identify a view that",
+            "blanks": [
+                {
+                    "id": "i",
+                    "choices": [
+                        {
+                            "label": "A",
+                            "text": "explains the occurrence of the chain of events described in the passage"
+                        },
+                        {
+                            "label": "B",
+                            "text": "provides a summary of the chain of events described in the passage"
+                        },
+                        {
+                            "label": "C",
+                            "text": "is called into question by the chain of events described in the passage"
+                        },
+                        {
+                            "label": "D",
+                            "text": "advocates reassessment of the widely held belief described in the passage"
+                        },
+                        {
+                            "label": "E",
+                            "text": "is undermined by the widely held belief described in the passage"
+                        }
+                    ]
+                }
+            ],
+            "answer": ["C"],
+            "p+": 60,
+            "explanation": ""
+        },
+        "S3Q13": {
+            "section": 3,
+            "type": "reading_comprehension",
+            "lines_id": "S3_Questions_9_11",
+            "prompt": "According to the passage, which of the following is a widely held belief about geese?",
+            "blanks": [
+                {
+                    "id": "i",
+                    "choices": [
+                        {
+                            "label": "A",
+                            "text": "They are not often seen grazing in coastal salt marshes."
+                        },
+                        {
+                            "label": "B",
+                            "text": "They are not the primary consumers in salt-marsh ecosystems."
+                        },
+                        {
+                            "label": "C",
+                            "text": "They play only a minor role in the productivity of salt-marsh ecosystems."
+                        },
+                        {
+                            "label": "D",
+                            "text": "They are the primary determinants of which resources will thrive in coastal salt marshes."
+                        },
+                        {
+                            "label": "E",
+                            "text": "They control the productivity of salt-marsh ecosystems through a bottom-up process."
+                        }
+                    ]
+                }
+            ],
+            "answer": ["C"],
+            "p+": 80,
+            "explanation": ""
+        },
+        "S3Q14": {
+            "section": 3,
+            "type": "reading_comprehension",
+            "lines_id": "S3_Questions_9_11",
+            "prompt": "Which of the following, if true, most weakens the editorial's argument?",
+            "blanks": [
+                {
+                    "id": "i",
+                    "choices": [
+                        {
+                            "label": "A",
+                            "text": "Complaints of official corruption in city government have decreased since the anticorruption task force began operating."
+                        },
+                        {
+                            "label": "B",
+                            "text": "Former mayor Bixby did not publicly oppose Mayor Stephens' establishment of the anticorruption task force."
+                        },
+                        {
+                            "label": "C",
+                            "text": "Almost all of the officials who have served in city government for any length of time are appointees of Mayor Bixby."
+                        },
+                        {
+                            "label": "D",
+                            "text": "All of the members of the anticorruption task force had other jobs in city government before the task force was formed."
+                        },
+                        {
+                            "label": "E",
+                            "text": "During the last mayoral election campaign, then-Mayor Bixby hotly disputed the current mayor's claim that there was widespread corruption in city government."
+                        }
+                    ]
+                }
+            ],
+            "answer": ["C"],
+            "p+": 36,
+            "explanation": ""
+        },
+        "S3Q15": {
+            "section": 3,
+            "type": "reading_comprehension",
+            "lines_id": "S3_Questions_9_11",
+            "prompt": "The slower-learning monkeys searched __________ but unintelligently: although they worked closely together, they checked only the most obvious hiding places.",
+            "blanks": [
+                {
+                    "id": "i",
+                    "choices": [
+                        {
+                            "label": "A",
+                            "text": "competitively"
+                        },
+                        {
+                            "label": "B",
+                            "text": "impulsively"
+                        },
+                        {
+                            "label": "C",
+                            "text": "cooperatively"
+                        },
+                        {
+                            "label": "D",
+                            "text": "deviously"
+                        },
+                        {
+                            "label": "E",
+                            "text": "craftily"
+                        },
+                        {
+                            "label": "F",
+                            "text": "harmoniously"
+                        }
+                    ]
+                }
+            ],
+            "answer": ["C", "F"],
+            "p+": 89,
+            "explanation": ""
+        },
+        "S3Q16": {
+            "section": 3,
+            "type": "reading_comprehension",
+            "lines_id": "S3_Questions_9_11",
+            "prompt": "By about age eight, children's phonetic capacities are fully developed but still __________; thus children at that age can learn to speak a new language with a native speaker's accent.",
+            "blanks": [
+                {
+                    "id": "i",
+                    "choices": [
+                        {
+                            "label": "A",
+                            "text": "plastic"
+                        },
+                        {
+                            "label": "B",
+                            "text": "vestigial"
+                        },
+                        {
+                            "label": "C",
+                            "text": "inarticulate"
+                        },
+                        {
+                            "label": "D",
+                            "text": "unformed"
+                        },
+                        {
+                            "label": "E",
+                            "text": "nascent"
+                        },
+                        {
+                            "label": "F",
+                            "text": "malleable"
+                        }
+                    ]
+                }
+            ],
+            "answer": ["A", "F"],
+            "p+": 50,
+            "explanation": ""
+        },
+        "S3Q17": {
+            "section": 3,
+            "type": "reading_comprehension",
+            "lines_id": "S3_Questions_9_11",
+            "prompt": "In medieval philosophy every physical phenomenon is presumed to have some determinate cause, leaving no place for __________ in the explanation of particular events.",
+            "blanks": [
+                {
+                    "id": "i",
+                    "choices": [
+                        {
+                            "label": "A",
+                            "text": "happenstance"
+                        },
+                        {
+                            "label": "B",
+                            "text": "chance"
+                        },
+                        {
+                            "label": "C",
+                            "text": "error"
+                        },
+                        {
+                            "label": "D",
+                            "text": "experience"
+                        },
+                        {
+                            "label": "E",
+                            "text": "context"
+                        },
+                        {
+                            "label": "F",
+                            "text": "miscalculation"
+                        }
+                    ]
+                }
+            ],
+            "answer": ["A", "B"],
+            "p+": 77,
+            "explanation": ""
+        },
+        "S3Q18": {
+            "section": 3,
+            "type": "reading_comprehension",
+            "lines_id": "S3_Questions_9_11",
+            "prompt": "Although the film is rightly judged imperfect by most of today's critics, the films being created today are __________ it, since its release in 1940 provoked sufficient critical discussion to enhance the intellectual respectability of cinema considerably.",
+            "blanks": [
+                {
+                    "id": "i",
+                    "choices": [
+                        {
+                            "label": "A",
+                            "text": "beholden to"
+                        },
+                        {
+                            "label": "B",
+                            "text": "indebted to"
+                        },
+                        {
+                            "label": "C",
+                            "text": "derivative of"
+                        },
+                        {
+                            "label": "D",
+                            "text": "based on"
+                        },
+                        {
+                            "label": "E",
+                            "text": "distinguishable from"
+                        },
+                        {
+                            "label": "F",
+                            "text": "biased against"
+                        }
+                    ]
+                }
+            ],
+            "answer": ["A", "B"],
+            "p+": 62,
+            "explanation": ""
+        },
+        "S3Q19": {
+            "section": 3,
+            "type": "reading_comprehension",
+            "lines_id": "S3_Questions_9_11",
+            "prompt": "The detective's conviction that there were few inept crimes in her district led her to impute some degree of __________ to every suspect she studied.",
+            "blanks": [
+                {
+                    "id": "i",
+                    "choices": [
+                        {
+                            "label": "A",
+                            "text": "deceit"
+                        },
+                        {
+                            "label": "B",
+                            "text": "acumen"
+                        },
+                        {
+                            "label": "C",
+                            "text": "duplicity"
+                        },
+                        {
+                            "label": "D",
+                            "text": "shrewdness"
+                        },
+                        {
+                            "label": "E",
+                            "text": "evasiveness"
+                        },
+                        {
+                            "label": "F",
+                            "text": "equivocation"
+                        }
+                    ]
+                }
+            ],
+            "answer": ["B", "D"],
+            "p+": 33,
+            "explanation": ""
+        },
+        "S3Q20": {
+            "section": 3,
+            "type": "reading_comprehension",
+            "lines_id": "S3_Questions_9_11",
+            "prompt": "According to the passage, the phenomenon of olfactory adaptation may cause individuals who are reexposed to an odorous environment after an extended absence to",
+            "blanks": [
+                {
+                    "id": "i",
+                    "choices": [
+                        {
+                            "label": "A",
+                            "text": "experience a heightened perception of the odor"
+                        },
+                        {
+                            "label": "B",
+                            "text": "perceive the odor as being less intense than it was upon first exposure"
+                        },
+                        {
+                            "label": "C",
+                            "text": "return to their original level of perception of the odor"
+                        },
+                        {
+                            "label": "D",
+                            "text": "exhibit a decreased tolerance for the odorous environment"
+                        },
+                        {
+                            "label": "E",
+                            "text": "experience the phenomenon of adaptation in other sensory systems"
+                        }
+                    ]
+                }
+            ],
+            "answer": ["B"],
+            "p+": 90,
+            "explanation": ""
+        },
+        "S3Q21": {
+            "section": 3,
+            "type": "reading_comprehension",
+            "lines_id": "S3_Questions_9_11",
+            "prompt": "The passage asserts which of the following about the exposures involved in the \"research on olfactory adaptation\" (line 11)?",
+            "blanks": [
+                {
+                    "id": "i",
+                    "choices": [
+                        {
+                            "label": "A",
+                            "text": "The exposures are of long enough duration for researchers to investigate many aspects of olfactory adaptation."
+                        },
+                        {
+                            "label": "B",
+                            "text": "The exposures have rarely consisted of reexposures following extended absences from the odorous environment."
+                        },
+                        {
+                            "label": "C",
+                            "text": "The exposures are intended to reproduce the relatively transient olfactory changes typical of exposures to odors in natural environments."
+                        },
+                        {
+                            "label": "D",
+                            "text": "Those exposures of relatively short duration are often insufficient to produce the phenomenon of receptor fatigue in study subjects."
+                        },
+                        {
+                            "label": "E",
+                            "text": "Those exposures lasting several hours produce reductions in receptors in the olfactory epithelium that are similar to the reductions caused by prolonged odor stimulation."
+                        }
+                    ]
+                }
+            ],
+            "answer": ["A"],
+            "p+": 60,
+            "explanation": ""
+        },
+        "S3Q22": {
+            "section": 3,
+            "type": "reading_comprehension",
+            "lines_id": "S3_Questions_9_11",
+            "prompt": "The author of the passage discusses \"receptor fatigue\" (line 24) primarily in order to",
+            "blanks": [
+                {
+                    "id": "i",
+                    "choices": [
+                        {
+                            "label": "A",
+                            "text": "explain the physiological process through which long-lasting reductions in response are thought to be produced"
+                        },
+                        {
+                            "label": "B",
+                            "text": "provide an example of a process that subjects would probably not experience during a prolonged period of odorant stimulation"
+                        },
+                        {
+                            "label": "C",
+                            "text": "help illustrate how the information gathered from most olfactory research may not be sufficient to describe the effects of extended exposures to odors"
+                        },
+                        {
+                            "label": "D",
+                            "text": "show how studies of short-term olfactory adaptation have only accounted for the reductions in response that follow relatively brief absences from an odorous environment"
+                        },
+                        {
+                            "label": "E",
+                            "text": "qualify a statement about the severity and duration of the perceptual changes caused by exposure to chronically present ambient odors"
+                        }
+                    ]
+                }
+            ],
+            "answer": ["C"],
+            "p+": 23,
+            "explanation": ""
+        },
+        "S3Q23": {
+            "section": 3,
+            "type": "reading_comprehension",
+            "lines_id": "S3_Questions_9_11",
+            "prompt": "The passage suggests that an adherent to the \"orthodox position\" (line 3) would agree with which of the following statements?",
+            "blanks": [
+                {
+                    "id": "i",
+                    "choices": [
+                        {
+                            "label": "A",
+                            "text": "Northern Renaissance prints should be regarded as passive representations of their time."
+                        },
+                        {
+                            "label": "B",
+                            "text": "Northern Renaissance prints were part of a campaign aimed at altering contemporary thinking."
+                        },
+                        {
+                            "label": "C",
+                            "text": "Northern Renaissance prints provide reliable records of contemporary events, opinions, and beliefs."
+                        }
+                    ]
+                }
+            ],
+            "answer": ["A", "C"],
+            "p+": 81,
+            "explanation": ""
+        },
+        "S3Q24": {
+            "section": 3,
+            "type": "reading_comprehension",
+            "lines_id": "S3_Questions_9_11",
+            "prompt": "Replacement of the word \"passive\" (line 5) with which of the following words results in the least change in meaning for the passage?",
+            "blanks": [
+                {
+                    "id": "i",
+                    "choices": [
+                        {
+                            "label": "A",
+                            "text": "disinterested"
+                        },
+                        {
+                            "label": "B",
+                            "text": "submissive"
+                        },
+                        {
+                            "label": "C",
+                            "text": "flaccid"
+                        },
+                        {
+                            "label": "D",
+                            "text": "supine"
+                        },
+                        {
+                            "label": "E",
+                            "text": "unreceptive"
+                        }
+                    ]
+                }
+            ],
+            "answer": ["A"],
+            "p+": 20,
+            "explanation": ""
+        },
+        "S3Q25": {
+            "section": 3,
+            "type": "reading_comprehension",
+            "lines_id": "S3_Questions_9_11",
+            "prompt": "Which of the following, if true, most strengthens the argument?",
+            "blanks": [
+                {
+                    "id": "i",
+                    "choices": [
+                        {
+                            "label": "A",
+                            "text": "The levels of the compounds typically used in boat paints today are lower than they were in boat paints manufactured a decade ago."
+                        },
+                        {
+                            "label": "B",
+                            "text": "In high concentrations, the compounds are toxic to many types of marine animals."
+                        },
+                        {
+                            "label": "C",
+                            "text": "The compounds break down into harmless substances after a few months of exposure to water or air."
+                        },
+                        {
+                            "label": "D",
+                            "text": "High tissue levels of the compounds have recently been found in some marine animals, but there is no record of any of those animals dying in unusually large numbers recently."
+                        },
+                        {
+                            "label": "E",
+                            "text": "The compounds do not leach out of the boat paint if the paint is applied exactly in accordance with the manufacturer's directions."
+                        }
+                    ]
+                }
+            ],
+            "answer": ["C"],
+            "p+": 19,
+            "explanation": ""
+        },
         "S4Q9": {
             "section": 4,
             "type": "reading_comprehension",
