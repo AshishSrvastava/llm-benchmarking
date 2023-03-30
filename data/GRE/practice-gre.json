@@ -1258,7 +1258,6 @@
                     "text": "The relationship cannot be determined from the information given."
                 }
             ]
-                }
         },
         "S5Q3": {
             "section": 5,
@@ -1582,13 +1581,133 @@
             "section": 5,
             "type": "multiple_choice",
             "not-applicable": false,
-            "prompt": "If \\left( 5 ^ {5x}\\right)",
+            "prompt": "If $\\left( 5 ^ {5x} \\right) (25) = 5^n$, where $n$ and $x$ are integers, what is the value of $n$ in terms of $x$?",
             "choices": {
-                "A": "7.0",
-                "B": "8.4",
-                "C": "12.3",
-                "D": "14",
-                "E": "16.8"
+                "A": "$5x + 1$",
+                "B": "$5x + 2$",
+                "C": "$5x + 5$",
+                "D": "$10x$",
+                "E": "$10x + 2$"
             }   
         },
+        "S5Q17": {
+            "section": 5,
+            "type": "multiple_choice",
+            "not-applicable": true,
+            "prompt": "What is the median of the percent values representing gasoline tax revenue as a percent of total retail gasoline sales for the nine countries listed in the bar graph?",
+            "choices": {
+                "A": "67.6%",
+                "B": "68.0%",
+                "C": "70.0%",
+                "D": "70.7%",
+                "E": "73.7%"
+            }  
+        },
+        "S5Q18": {
+            "section": 5,
+            "type": "multiple_choice",
+            "not-applicable": true,
+            "prompt": "What is the median of the percent values representing gasoline tax revenue as a percent of total retail gasoline sales for the nine countries listed in the bar graph?",
+            "context": "For the following question, select *all* the answer choices that apply.",
+            "choices": {
+                "A": "In 2000 France's gasoline tax revenue as a percent of its total tax revenue was greater than 20.4 percent.",
+                "B": "In 2000 the price per gallon of gasoline was greater in Norway than it was in Spain.",
+                "C": "In 2000 Germany's gasoline tax revenue was more than 3 times its tobacco tax revenue."
+            }
+        },
+        "S5Q19": {
+            "section": 5,
+            "type": "multiple_choice",
+            "not-applicable": true,
+            "prompt": "In 2000 the amount of Germany's gasoline tax revenue was approximately what percent less than the amount of its income tax revenue?",
+            "choices": {
+                "A": "10%",
+                "B": "20%",
+                "C": "30%",
+                "D": "40%",
+                "E": "50%"
+            }
+        },
+        "S5Q20": {
+            "section": 5,
+            "type": "multiple_choice",
+            "not-applicable": true,
+            "prompt": "If Germany's total tax revenue in 2000 was approximately $170 billion, approximately what was the amount of the total retail gasoline sales in Germany that year?",
+            "choices": {
+                "A": "$10 billion",
+                "B": "$20 billion",
+                "C": "$30 billion",
+                "D": "$40 billion",
+                "E": "$50 billion"
+            }
+        },
+        "S5Q21": {
+            "section": 5,
+            "type": "multiple_choice",
+            "not-applicable": false,
+            "prompt": "Of the 180 judges appointed by a certain President, 30 percent were women and 25 percent were from minority groups. If $\\frac{1}{9}$ of the women appointed were from minority groups, how many of the judges appointed were neither women nor from minority groups?",
+            "choices": {
+                "A": "75",
+                "B": "81",
+                "C": "87",
+                "D": "93",
+                "E": "99"
+            }
+        },
+        "S5Q22": {
+            "section": 5,
+            "type": "multiple_choice",
+            "not-applicable": false,
+            "prompt": "If an integer is divisible by both 8 and 15, then the integer also must be divisible by which of the following?",
+            "choices": {
+                "A": "16",
+                "B": "24",
+                "C": "32",
+                "D": "36",
+                "E": "45"
+            }
+        },
+        "S5Q23": {
+            "section": 5,
+            "type": "multiple_choice",
+            "not-applicable": false,
+            "prompt": "A certain experiment has three possible outcomes. The outcomes are mutually exclusive and have probabilities $p$, $\\frac{p}{2}$ and $\\frac{p}{4} respectively. What is the value of $p$?",
+            "choices": {
+                "A": "$\\frac{1}{7}$",
+                "B": "$\\frac{2}{7}$",
+                "C": "$\\frac{3}{7}$",
+                "D": "$\\frac{4}{7}$",
+                "E": "$\\frac{5}{7}$"
+            }
+        },
+        "S5Q24": {
+            "section": 5,
+            "type": "multiple_choice",
+            "not-applicable": false,
+            "prompt": "In triangle $ABC$, the measure of angle $B$ is 90º, the length of side $AB$ is 4, and the length of side $BC$ is $x$. If the length of hypotenuse $AC$ is between 4 and 8, which of the following could be the value of $x$? Indicate *all* such values",
+            "context": "For the following question, select *all* the answer choices that apply.",
+            "choices": {
+                "A": "1",
+                "B": "2",
+                "C": "3",
+                "D": "4",
+                "E": "4",
+                "F": "6"
+            }
+        },
+        "S5Q25": {
+            "section": 5,
+            "type": "multiple_choice",
+            "not-applicable": false,
+            "prompt": "Each month, a certain manufacturing company's total expenses are equal to a fixed monthly expense plus a variable expense that is directly proportional to the number of units produced by the company during that month. If the company's total expenses for a month in which it produces 20,000 units are $570,000, and the total expenses for a month in which it produces 25,000 units are $705,000, what is the company's fixed monthly expense?",
+            "choices": {
+                "A": "$27,000",
+                "B": "$30,000",
+                "C": "$67,500",
+                "D": "$109,800",
+                "E": "$135,000"
+            }
+        }
+
+    }
 }
