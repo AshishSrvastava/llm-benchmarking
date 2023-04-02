@@ -1541,22 +1541,6 @@
             "p+": 87,
             "explanation": ""
         },
-        "S5Q11": {
-            "section": 5,
-            "type": "multiple_choice",
-            "not-applicable": false,
-            "prompt": "If $\\frac{a - b}{a + b} = 2$, and $b = 1$, what is the value of $a$?",
-            "choices": {
-                "A": "1",
-                "B": "0",
-                "C": "-1",
-                "D": "-2",
-                "E": "-3"
-            },
-            "answer": ["E"],
-            "p+": 87,
-            "explanation": ""
-        },
         "S5Q12": {
             "section": 5,
             "type": "multiple_choice",
@@ -1607,7 +1591,7 @@
             "choices": {
                 "A": "$\frac{5}{3}x < x$",
                 "B": "$x^3 < x$",
-                "C": "$x - 6 < x - 7$",
+                "C": "$x - 6 < x - 7$"
             },
             "answer": ["B"],
             "p+": 55,
@@ -1772,6 +1756,478 @@
             },
             "answer": ["B"],
             "p+": 44,
+            "explanation": ""
+        },
+        "S6Q1": {
+            "section": 6,
+            "type": "quantity_comparison",
+            "not-applicable": false,
+            "prompt": "", 
+            "context": "The length of each side of equilateral triangle T is 6 times the length of each side of equilateral triangle X.", 
+            "quantities": {
+                "A": "The ratio of the length of one side of T to the length of another side of T",
+                "B": "The ratio of the length of one side of X to the length of another side of X"
+            },
+            "choices": [
+                {
+                    "label": "A",
+                    "text": "Quantity A is greater"
+                },
+                {
+                    "label": "B",
+                    "text": "Quantity B is greater"
+                },
+                {
+                    "label": "C",
+                    "text": "The two quantities are equal"
+                },
+                {
+                    "label": "D",
+                    "text": "The relationship cannot be determined from the information given."
+                }
+            ],
+            "answer": ["C"],
+            "p+": 85,
+            "explanation": ""
+        },
+        "S6Q2": {
+            "section": 6,
+            "type": "quantity_comparison",
+            "not-applicable": false,
+            "prompt": "",
+            "context": "Of 30 theater tickets sold, 20 tickets were sold at prices between $10 and $30 each and 10 tickets were sold at prices between $40 and $60 each.",
+            "quantities": {
+                "A": "The average (arithmetic mean) of the prices of the 30 tickets",
+                "B": "$50"
+            },
+            "choices": [
+                {
+                    "label": "A",
+                    "text": "Quantity A is greater"
+                },
+                {
+                    "label": "B",
+                    "text": "Quantity B is greater"
+                },
+                {
+                    "label": "C",
+                    "text": "The two quantities are equal"
+                },
+                {
+                    "label": "D",
+                    "text": "The relationship cannot be determined from the information given."
+                }
+            ],
+            "answer": ["B"],
+            "p+": 74,
+            "explanation": ""
+        },
+        "S6Q3": {
+            "section": 6,
+            "type": "quantity_comparison",
+            "not-applicable": false,
+            "prompt": "",
+            "context": "$x > 1$",
+            "quantities": {
+                "A": "$\\frac{x}{x+1}$",
+                "B": "$\\frac{-x}{1-x}$"
+            },
+            "choices": [
+                {
+                    "label": "A",
+                    "text": "Quantity A is greater"
+                },
+                {
+                    "label": "B",
+                    "text": "Quantity B is greater"
+                },
+                {
+                    "label": "C",
+                    "text": "The two quantities are equal"
+                },
+                {
+                    "label": "D",
+                    "text": "The relationship cannot be determined from the information given."
+                }
+            ],
+            "answer": ["B"],
+            "p+": 63,
+            "explanation": ""
+        },
+        "S6Q4": {
+            "section": 6,
+            "type": "quantity_comparison",
+            "not-applicable": false,
+            "prompt": "",
+            "context": "In the xy-plane, the point (1, 2) is on line j, and the point (2, 1) is on line k. Each of the lines has a positive slope.",
+            "quantities": {
+                "A": "The slope of line j",
+                "B": "The slope of line k"
+            },
+            "choices": [
+                {
+                    "label": "A",
+                    "text": "Quantity A is greater"
+                },
+                {
+                    "label": "B",
+                    "text": "Quantity B is greater"
+                },
+                {
+                    "label": "C",
+                    "text": "The two quantities are equal"
+                },
+                {
+                    "label": "D",
+                    "text": "The relationship cannot be determined from the information given."
+                }
+            ],
+            "answer": ["D"],
+            "p+": 60,
+            "explanation": ""
+        },
+        "S6Q5": {
+            "section": 6,
+            "type": "quantity_comparison",
+            "not-applicable": false,
+            "prompt": "T is a list of 100 different numbers that are greater than 0 and less than 50. The number x is greater than 60 percent of the numbers in T, and the number y is greater than 40 percent of the numbers in T.",
+            "context": "",
+            "quantities": {
+                "A": "$x - y$",
+                "B": "20"
+            },
+            "choices": [
+                {
+                    "label": "A",
+                    "text": "Quantity A is greater"
+                },
+                {
+                    "label": "B",
+                    "text": "Quantity B is greater"
+                },
+                {
+                    "label": "C",
+                    "text": "The two quantities are equal"
+                },
+                {
+                    "label": "D",
+                    "text": "The relationship cannot be determined from the information given."
+                }
+            ],
+            "answer": ["D"],
+            "p+": 48,
+            "explanation": ""
+        },
+        "S6Q6": {
+            "section": 6,
+            "type": "quantity_comparison",
+            "not-applicable": false,
+            "prompt": "",
+            "context": "$n$ is a positive integer",
+            "quantities": {
+                "A": "The remainder when $n$ is divided by 5",
+                "B": "The remainder when $n + 10$ is divided by 5"
+            },
+            "choices": [
+                {
+                    "label": "A",
+                    "text": "Quantity A is greater"
+                },
+                {
+                    "label": "B",
+                    "text": "Quantity B is greater"
+                },
+                {
+                    "label": "C",
+                    "text": "The two quantities are equal"
+                },
+                {
+                    "label": "D",
+                    "text": "The relationship cannot be determined from the information given."
+                }
+            ],
+            "answer": ["C"],
+            "p+": 55,
+            "explanation": ""
+        },
+        "S6Q7": {
+            "section": 6,
+            "type": "quantity_comparison",
+            "not-applicable": false,
+            "prompt": "A right circular cylinder with radius 2 inches has volume 15 cubic inches",
+            "context": "",
+            "quantities": {
+                "A": "The height of the cylinder",
+                "B": "2 inches"
+            },
+            "choices": [
+                {
+                    "label": "A",
+                    "text": "Quantity A is greater"
+                },
+                {
+                    "label": "B",
+                    "text": "Quantity B is greater"
+                },
+                {
+                    "label": "C",
+                    "text": "The two quantities are equal"
+                },
+                {
+                    "label": "D",
+                    "text": "The relationship cannot be determined from the information given."
+                }
+            ],
+            "answer": ["B"],
+            "p+": 47,
+            "explanation": ""
+        },
+        "S6Q8": {
+            "section": 6,
+            "type": "quantity_comparison",
+            "not-applicable": false,
+            "prompt": "$k$ is an integer for which $\\frac{1}{2^{1-k}} < \\frac{1}{8}$\nQuantity A: $k$\nQuantity B: $-2$",
+            "context": "",
+            "quantities": {
+                "A": "k",
+                "B": "-2"
+            },
+            "choices": [
+                {
+                    "label": "A",
+                    "text": "Quantity A is greater"
+                },
+                {
+                    "label": "B",
+                    "text": "Quantity B is greater"
+                },
+                {
+                    "label": "C",
+                    "text": "The two quantities are equal"
+                },
+                {
+                    "label": "D",
+                    "text": "The relationship cannot be determined from the information given."
+                }
+            ],
+            "answer": ["B"],
+            "p+": 50,
+            "explanation": ""
+        },
+        "S6Q9": {
+            "section": 6,
+            "type": "quantity_comparison",
+            "not-applicable": false,
+            "prompt": "",
+            "context": "$n$ is an integer greater than 0",
+            "quantities": {
+                "A": "The number of different prime factors of $9n$",
+                "B": "The number of different prime factors of $8n$"
+            },
+            "choices": [
+                {
+                    "label": "A",
+                    "text": "Quantity A is greater"
+                },
+                {
+                    "label": "B",
+                    "text": "Quantity B is greater"
+                },
+                {
+                    "label": "C",
+                    "text": "The two quantities are equal"
+                },
+                {
+                    "label": "D",
+                    "text": "The relationship cannot be determined from the information given."
+                }
+            ],
+            "answer": ["D"],
+            "p+": 30,
+            "explanation": ""
+        },                                                        
+        "S6Q10": {
+            "section": 6,
+            "type": "multiple_choice",
+            "not-applicable": false,
+            "prompt": "Working at their respective constant rates, machine I makes 240 copies in 8 minutes and machine II makes 240 copies in 5 minutes. At these rates, how many more copies does machine II make in 4 minutes than machine I makes in 6 minutes?",
+            "choices": {
+                "A": "6",
+                "B": "12",
+                "C": "15",
+                "D": "18",
+                "E": "24"
+            },
+            "answer": ["B"],
+            "p+": 88,
+            "explanation": ""
+        },
+        "S6Q11": {
+            "section": 6,
+            "type": "numeric_entry",
+            "not-applicable": true,
+            "prompt": "Among the people attending a convention in Europe, 32 percent traveled from Asia and 45 percent of those who traveled from Asia are women. What percent of the people at the convention are women who traveled from Asia?",
+            "answer": ["14.4"],
+            "p+": 71,
+            "explanation": ""
+        },
+        "S6Q12": {
+            "section": 6,
+            "type": "multiple_choice",
+            "not-applicable": false,
+            "prompt": "In the xy-plane, points R and S have coordinates (-2, 1) and (4, -7), respectively. If point P is the midpoint of line segment RS, what are the coordinates of point P?",
+            "choices": {
+                "A": "(-1, -4)",
+                "B": "(0, -3)",
+                "C": "(1, -3)",
+                "D": "(2, -4)",
+                "E": "(3, -4)"
+            },
+            "answer": ["C"],
+            "p+": 67,
+            "explanation": ""
+        },
+        
+        "S6Q13": {
+            "section": 6,
+            "type": "multiple_choice",
+            "not-applicable": false,
+            "prompt": "Steve's property tax is $140 less than Patricia's property tax. If Steve's property tax is $1,960, then Steve's property tax is what percent less than Patricia's property tax, to the nearest 0.1 percent?",
+            "choices": {
+                "A": "6.7%",
+                "B": "7.1%",
+                "C": "7.5%",
+                "D": "7.9%",
+                "E": "8.3%"
+            },
+            "answer": ["A"],
+            "p+": 63,
+            "explanation": ""
+        },
+        
+        "S6Q14": {
+            "section": 6,
+            "type": "multiple_choice",
+            "not-applicable": false,
+            "prompt": "A base of a triangle has length b, the altitude corresponding to the base has length h, and b = 2h. Which of the following expresses the area of the triangle, in terms of h?",
+            "choices": {
+                "A": "\\frac{1}{2}h^2",
+                "B": "\\frac{3}{4}h^2",
+                "C": "h^2",
+                "D": "\\frac{3}{2}h^2",
+                "E": "2h^2"
+            },
+            "answer": ["C"],
+            "p+": 63,
+            "explanation": ""
+        },
+        
+        "S6Q15": {
+            "section": 6,
+            "type": "multiple_choice",
+            "not-applicable": false,
+            "prompt": "How many different two-digit positive integers are there in which the tens digit is greater than 6 and the units digit is less than 4?",
+            "choices": {
+                "A": "7",
+                "B": "9",
+                "C": "10",
+                "D": "12",
+                "E": "24"
+            },
+            "answer": ["D"],
+            "p+": 58,
+            "explanation": ""
+        },
+        "S6Q16": {
+            "section": 6,
+            "type": "multiple_choice",
+            "not-applicable": false,
+            "prompt": "Chris entered a number in his calculator and erroneously multiplied the number by 2,073 instead of 2.073, getting an incorrect product. Which of the following is a single operation that Chris could perform on his calculator to correct the error?",
+            "context": "Indicate *all* such operations",
+            "choices": {
+                "A": "Multiply the incorrect product by 0.001",
+                "B": "Divide the incorrect product by 0.001",
+                "C": "Multiply the incorrect product by 1,000",
+                "D": "Divide the incorrect product by 1,000"
+            },
+            "answer": ["A", "D"],
+            "p+": 73,
+            "explanation": ""
+        },
+        "S6Q21": {
+            "section": 6,
+            "type": "numeric_entry",
+            "not-applicable": true,
+            "prompt": "If $\\sqrt[3]{x} = 3$ and $x = \\sqrt{y}$, what is the value of y? y = ",
+            "answer": ["14.4"],
+            "p+": 71,
+            "explanation": ""
+        },
+        "S6Q22": {
+            "section": 6,
+            "type": "multiple_choice",
+            "not-applicable": true,
+            "prompt": "The figure shows the standard normal distribution, with mean 0 and standard deviation 1, including approximate percents of the distribution corresponding to the six regions shown. Ian rode the bus to work last year. His travel times to work were approximately normally distributed, with a mean of 35 minutes and a standard deviation of 5 minutes. According to the figure shown, approximately what percent of Ian's travel times to work last year were less than 40 minutes?",
+            "choices": {
+                "A": "14%",
+                "B": "34%",
+                "C": "60%",
+                "D": "68%",
+                "E": "84%"
+            },
+            "answer": ["E"],
+            "p+": 61,
+            "explanation": ""
+        },
+        "S6Q23": {
+            "section": 6,
+            "type": "multiple_choice",
+            "not-applicable": false,
+            "prompt": "If a and b are integers and $f(a) + f(b) = a + b$, which of the following statements must be true?",
+            "context": "For all integers, $x$, the function $f$ is defined as follows: $\\f(x) = \\begin{cases} x-1 & \\text{if } x \\text{ is even} \\ \\ x+1 & \\text{if } x \\text{ is odd} \\end{cases}$",
+            "choices": {
+                "A": "Multiply the incorrect product by 0.001",
+                "B": "Divide the incorrect product by 0.001",
+                "C": "Multiply the incorrect product by 1,000",
+                "D": "Divide the incorrect product by 1,000"
+            },
+            "answer": ["C"],
+            "p+": 40,
+            "explanation": ""
+        },
+        "S6Q24": {
+            "section": 5,
+            "type": "multiple_choice",
+            "not-applicable": false,
+            "prompt": "If $y^{-2} + 2 y^{-1} - 15 = 0$, which of the following could be the value of $y$?",
+            "context": "Indicate *all* such operations",
+            "choices": {
+                "A": "3",
+                "B": "\\frac{1}{5}",
+                "C": "-\\frac{1}{5}",
+                "D": "-\\frac{1}{3}",
+                "E": "-5"
+            },
+            "answer": ["C"],
+            "p+": 38,
+            "explanation": ""
+        },
+        "S6Q25": {
+            "section": 6,
+            "type": "multiple_choice",
+            "not-applicable": false,
+            "prompt": "$3.7, 4.1, a, 8.5, 9.2, 2a$ \n The six numbers shown are listed in increasing order. Which of the following values could be the range of the six numbers?",
+            "context": "Indicate *all* such values",
+            "choices": {
+                "A": "4.0",
+                "B": "5.2",
+                "C": "7.3",
+                "D": "11.6",
+                "E": "12.9",
+                "F": "14.1"
+            },
+            "answer": ["C", "D", "E"],
+            "p+": 24,
             "explanation": ""
         }
     }
