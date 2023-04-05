@@ -1199,6 +1199,407 @@
             "p+": 19,
             "explanation": ""
         },
+        "S4Q1": {
+            "section": 4,
+            "type": "text_completion",
+            "passage": {},
+            "context": "For each of Questions 1 to 8, select *one* entry for each blank from the corresponding column of choices. Fill all blanks in the way that best completes the text.",
+            "prompt": "This filmmaker is not outspoken on political matters: her films are known for their aesthetic qualities rather than for their _____ ones.",
+            "blanks": [
+                {
+                    "id": "i",
+                    "choices": [
+                        {
+                            "label": "A",
+                            "text": "polemical"
+                        },
+                        {
+                            "label": "B",
+                            "text": "cinematic"
+                        },
+                        {
+                            "label": "C",
+                            "text": "narrative"
+                        },
+                        {
+                            "label": "D",
+                            "text": "commercial"
+                        },
+                        {
+                            "label": "E",
+                            "text": "dramatic"
+                        }
+                    ]
+                }
+            ],
+            "answer": ["A"],
+            "p+": 60,
+            "explanation": ""
+        },
+        "S4Q2": {
+            "section": 4,
+            "type": "text_completion",
+            "passage": {},
+            "context": "For each of Questions 1 to 8, select *one* entry for each blank from the corresponding column of choices. Fill all blanks in the way that best completes the text.",
+            "prompt": "James boswell's *Life of Samuel Johnson* is generally thought to have established Boswell as the firest great modern biographer; yet the claim of _____ could be made for Johnson himself as author of a life of Richard Savage.",
+            "blanks": [
+                {
+                    "id": "i",
+                    "choices": [
+                        {
+                            "label": "A",
+                            "text": "partisanship"
+                        },
+                        {
+                            "label": "B",
+                            "text": "omniscience"
+                        },
+                        {
+                            "label": "C",
+                            "text": "precedence"
+                        },
+                        {
+                            "label": "D",
+                            "text": "opportunism"
+                        },
+                        {
+                            "label": "E",
+                            "text": "dramatic"
+                        }
+                    ]
+                }
+            ],
+            "answer": ["C"],
+            "p+": 75,
+            "explanation": ""
+        },
+        "S4Q3": {
+            "section": 4,
+            "type": "text_completion",
+            "passage": {},
+            "context": "For each of Questions 1 to 8, select *one* entry for each blank from the corresponding column of choices. Fill all blanks in the way that best completes the text.",
+            "prompt": "Critics charge that the regulatory agency, having never defined what constitutes an untenable risk, has grown (i) _____ outside influences on the issue: several experts have (ii) _____ it recently for allowing one power plant to delay an inspection for more than six weeks despite compelling safety concerns.",
+            "blanks": [
+                {
+                    "id": "i",
+                    "choices": [
+                        {
+                            "label": "A",
+                            "text": "susceptible to"
+                        },
+                        {
+                            "label": "B",
+                            "text": "unaware of"
+                        },
+                        {
+                            "label": "C",
+                            "text": "irritated at"
+                        }
+                    ]
+                },
+                {
+                    "id": "ii",
+                    "choices": [
+                        {
+                            "label": "D",
+                            "text": "complimented"
+                        },
+                        {
+                            "label": "E",
+                            "text": "panned"
+                        },
+                        {
+                            "label": "E",
+                            "text": "overlooked"
+                        }
+                    ]
+                }
+            ],
+            "answer": ["A", "E"],
+            "p+": 60,
+            "explanation": ""
+        },
+        "S4Q4": {
+            "section": 4,
+            "type": "text_completion",
+            "passage": {},
+            "context": "For each of Questions 1 to 8, select *one* entry for each blank from the corresponding column of choices. Fill all blanks in the way that best completes the text.",
+            "prompt": "Television promotes (i) _____ of emotion in viewers through an unnatural evocation, every five minutes, of different and (ii) _____ feelings.",
+            "blanks": [
+                {
+                    "id": "i",
+                    "choices": [
+                        {
+                            "label": "A",
+                            "text": "a withdrawal"
+                        },
+                        {
+                            "label": "B",
+                            "text": "an obscuring"
+                        },
+                        {
+                            "label": "C",
+                            "text": "a discontinuity"
+                        }
+                    ]
+                },
+                {
+                    "id": "ii",
+                    "choices": [
+                        {
+                            "label": "D",
+                            "text": "incompatible"
+                        },
+                        {
+                            "label": "E",
+                            "text": "sympathetic"
+                        },
+                        {
+                            "label": "E",
+                            "text": "interminable"
+                        }
+                    ]
+                }
+            ],
+            "answer": ["C", "D"],
+            "p+": 61,
+            "explanation": ""
+        },
+        "S4Q5": {
+            "section": 4,
+            "type": "text_completion",
+            "passage": {},
+            "context": "For each of Questions 1 to 8, select *one* entry for each blank from the corresponding column of choices. Fill all blanks in the way that best completes the text.",
+            "prompt": "Because we assume the (i) ______ of natural design, nature can often (ii) _____ us: as the Wright brothers noted, the birds initially misled them in almost every particular, but their Flyer eventually succeeded by being the least avian of the early flying machines",
+            "blanks": [
+                {
+                    "id": "i",
+                    "choices": [
+                        {
+                            "label": "A",
+                            "text": "quirkiness"
+                        },
+                        {
+                            "label": "B",
+                            "text": "preeminence"
+                        },
+                        {
+                            "label": "C",
+                            "text": "maladroitness"
+                        }
+                    ]
+                },
+                {
+                    "id": "ii",
+                    "choices": [
+                        {
+                            "label": "D",
+                            "text": "galvanize"
+                        },
+                        {
+                            "label": "E",
+                            "text": "befriend"
+                        },
+                        {
+                            "label": "F",
+                            "text": "beguile"
+                        }
+                    ]
+                }
+            ],
+            "answer": ["B", "F"],
+            "p+": 76,
+            "explanation": ""
+        },
+        "S4Q6": {
+            "section": 4,
+            "type": "text_completion",
+            "passage": {},
+            "context": "For each of Questions 1 to 8, select *one* entry for each blank from the corresponding column of choices. Fill all blanks in the way that best completes the text.",
+            "prompt": "Colleagues describe Padgett as both forthright and reticent, humble and (i) _____, good-natured and (ii) _____. And in her behavior as a businesswoman, Padgett herself does little to (iii) _____ these contradictions. She says she is proemployee but is avowedly antiunion. She calls herself procustomer but acknowledges that she runs a store with higher profit margins and prices than almost any other grocer.",
+            "blanks": [
+                {
+                    "id": "i",
+                    "choices": [
+                        {
+                            "label": "A",
+                            "text": "diffident"
+                        },
+                        {
+                            "label": "B",
+                            "text": "eccentric"
+                        },
+                        {
+                            "label": "C",
+                            "text": "arrogant"
+                        }
+                    ]
+                },
+                {
+                    "id": "ii",
+                    "choices": [
+                        {
+                            "label": "D",
+                            "text": "prickly"
+                        },
+                        {
+                            "label": "E",
+                            "text": "solicitous"
+                        },
+                        {
+                            "label": "F",
+                            "text": "phlegmatic"
+                        }
+                    ]
+                },
+                {
+                    "id": "iii",
+                    "choices": [
+                        {
+                            "label": "G",
+                            "text": "dispel"
+                        },
+                        {
+                            "label": "H",
+                            "text": "fulfill"
+                        },
+                        {
+                            "label": "I",
+                            "text": "accentuate"
+                        }
+                    ]
+                }
+            ],
+            "answer": ["C", "D", "G"],
+            "p+": 48,
+            "explanation": ""
+        },
+        "S4Q7": {
+            "section": 4,
+            "type": "text_completion",
+            "passage": {},
+            "context": "For each of Questions 1 to 8, select *one* entry for each blank from the corresponding column of choices. Fill all blanks in the way that best completes the text.",
+            "prompt": "Historical research makes two somewhat antithetical truths that sounded (i) _____ come to seem profound: knowledge of the past comes entirely from written documents, giving written words great (ii) _____, and the more material you uncover, the more (iii) _____ your subject becomes.",
+            "blanks": [
+                {
+                    "id": "i",
+                    "choices": [
+                        {
+                            "label": "A",
+                            "text": "deep"
+                        },
+                        {
+                            "label": "B",
+                            "text": "portentous"
+                        },
+                        {
+                            "label": "C",
+                            "text": "banal"
+                        }
+                    ]
+                },
+                {
+                    "id": "ii",
+                    "choices": [
+                        {
+                            "label": "D",
+                            "text": "consequence"
+                        },
+                        {
+                            "label": "E",
+                            "text": "antiquity"
+                        },
+                        {
+                            "label": "F",
+                            "text": "simultaneity"
+                        }
+                    ]
+                },
+                {
+                    "id": "iii",
+                    "choices": [
+                        {
+                            "label": "G",
+                            "text": "elusive"
+                        },
+                        {
+                            "label": "H",
+                            "text": "contemporary"
+                        },
+                        {
+                            "label": "I",
+                            "text": "circumstantial"
+                        }
+                    ]
+                }
+            ],
+            "answer": ["C", "D", "G"],
+            "p+": 22,
+            "explanation": ""
+        },
+        "S4Q8": {
+            "section": 4,
+            "type": "text_completion",
+            "passage": {},
+            "context": "For each of Questions 1 to 8, select *one* entry for each blank from the corresponding column of choices. Fill all blanks in the way that best completes the text.",
+            "prompt": "The recent publication of the painter Robert Motherwell's substantial body of writing, as well as writings by fellow Expressionist Barnett Newman, (i) _____ Ann Gibson's assertion that th eAbstract Expressionists were reluctant to (ii) _____ issues of artistic meaning in their work and suggests that this supposed reticence was perhaps more artistic (iii) _____ than historical fact.",
+            "blanks": [
+                {
+                    "id": "i",
+                    "choices": [
+                        {
+                            "label": "A",
+                            "text": "substantiates"
+                        },
+                        {
+                            "label": "B",
+                            "text": "undermines"
+                        },
+                        {
+                            "label": "C",
+                            "text": "overlooks"
+                        }
+                    ]
+                },
+                {
+                    "id": "ii",
+                    "choices": [
+                        {
+                            "label": "D",
+                            "text": "forgo"
+                        },
+                        {
+                            "label": "E",
+                            "text": "articulate"
+                        },
+                        {
+                            "label": "F",
+                            "text": "conceal"
+                        }
+                    ]
+                },
+                {
+                    "id": "iii",
+                    "choices": [
+                        {
+                            "label": "G",
+                            "text": "conscience"
+                        },
+                        {
+                            "label": "H",
+                            "text": "focus"
+                        },
+                        {
+                            "label": "I",
+                            "text": "posturing"
+                        }
+                    ]
+                }
+            ],
+            "answer": ["B", "E", "I"],
+            "p+": 36,
+            "explanation": ""
+        },
         "S4Q9": {
             "section": 4,
             "type": "reading_comprehension",
@@ -1230,6 +1631,131 @@
             "p+": null,
             "explanation": "optional_explanation_text_9"
         },
+        "S4Q18": {
+            "section": 4,
+            "type": "text_completion",
+            "passage": {},
+            "prompt": "The passage describes Padgett as a complex individual with a mix of different traits that may appear to contradict each other. Specifically, colleagues describe her as both forthright and reticent, humble and _______ (i), and good-natured and _______ (ii). In her behavior as a businesswoman, Padgett herself does little to _______ (iii) these contradictions.",
+            "blanks": [
+                {
+                    "id": "i",
+                    "choices": [
+                        {
+                            "label": "A",
+                            "text": "diffident"
+                        },
+                        {
+                            "label": "B",
+                            "text": "eccentric"
+                        },
+                        {
+                            "label": "C",
+                            "text": "arrogant"
+                        }
+                    ]
+                },
+                {
+                    "id": "ii",
+                    "choices": [
+                        {
+                        "label": "A",
+                        "text": "prickly"
+                        },
+                        {
+                        "label": "B",
+                        "text": "solicitous"
+                        },
+                        {
+                        "label": "C",
+                        "text": "phlegmatic"
+                        }
+                    ]
+                },
+                {
+                    "blank_id": "iii",
+                    "choices": [
+                        {
+                        "label": "A",
+                        "text": "dispel"
+                        },
+                        {
+                        "label": "B",
+                        "text": "fulfill"
+                        },
+                        {
+                        "label": "C",
+                        "text": "accentuate"
+                        }
+                    ]
+                }
+            ],
+            "answer": ["A", "B", "A"],
+            "p+": null,
+            "explanation": "optional_explanation_text_18"
+        },
+        "S4Q19": {
+            "section": 4,
+            "type": "text_completion",
+            "passage": {},
+            "prompt": "",
+            "blanks": [
+                {
+                    "id": "i",
+                    "choices": [
+                        {
+                            "label": "A",
+                            "text": ""
+                        },
+                        {
+                            "label": "B",
+                            "text": ""
+                        },
+                        {
+                            "label": "C",
+                            "text": ""
+                        }
+                    ]
+                },
+                {
+                    "id": "ii",
+                    "choices": [
+                        {
+                        "label": "D",
+                        "text": ""
+                        },
+                        {
+                        "label": "E",
+                        "text": ""
+                        },
+                        {
+                        "label": "F",
+                        "text": ""
+                        }
+                    ]
+                },
+                {
+                    "id": "iii",
+                    "choices": [
+                        {
+                        "label": "G",
+                        "text": ""
+                        },
+                        {
+                        "label": "H",
+                        "text": ""
+                        },
+                        {
+                        "label": "I",
+                        "text": ""
+                        }
+                    ]
+                }
+            ],
+            "answer": ["", "", ""],
+            "p+": null,
+            "explanation": ""
+        },
+
         "S5Q2": {
             "section": 5,
             "type": "quantity_comparison",
