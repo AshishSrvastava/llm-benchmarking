@@ -1,142 +1,141 @@
 {
     "lines": {
-        "S3_Questions_9_11": {
-            "title": "",
-            "content": [
-              "Historian F. W. Maitland observed that legal",
-              "documents are the best\u2013indeed, often the",
-              "only\u2013available evidence about the economic and",
-              "social history of a given period. Why, then, has it",
-              "taken so long for historians to focus systematically on",
-              "the civil (noncriminal) law of early modern",
-              "(sixteenth- to eighteenth-century) England? Maitland",
-              "offered one reason: the subject requires researchers to",
-              "\"master an extremely formal system of pleading and",
-              "procedure.\" Yet the complexities that confront those",
-              "who would study such materials are not wholly",
-              "different from those recenty surmounted by",
-              "historians of criminal law in England during the same",
-              "period. Another possible explanation for historians'",
-              "neglect of the subject is their widespread assumption",
-              "that most people in early modern England had little",
-              "contact with civil law. If that were so, the history of",
-              "legal matters would be of little relevance to general",
-              "historical scholarship. But recent research suggests",
-              "that civil litigation during the period involved",
-              "artisans, merchants, professionals, shopkeepers, and",
-              "farmers, and not merely a narrow, propertied, male",
-              "elite. Moreover, the later sixteenth and early",
-              "seventeenth centuries saw an extraordinary explosion",
-              "in civil litigation by both women and men, making",
-              "this the most litigious era in English history on a",
-              "per capita basis."
-            ]
-        },
-        "S3_Questions_12_14": {
-            "title": "",
-            "content": [
-              "Geese can often be seen grazing in coastal",
-              "salt marshes. Unfortunately, their intense grazing",
-              "removes the grassy covering, exposing marsh",
-              "sediment; this increases evaporation, which in turn",
-              "increases salt concentration in marsh sediments.",
-              "Because of this increased concentration, regrowth of",
-              "plants is minimal, leading to increased erosion, which",
-              "leads to a decrease in the fertile topsoil, leading to",
-              "even less regrowth. In time, the salt marsh becomes a",
-              "mudflat. This process challenges one of the most",
-              "widely held beliefs about the dynamics of salt-marsh",
-              "ecosystems: supposedly, consumers such as gesese do",
-              "not play a large role in controlling the productivity of",
-              "marsh systems. Rather, the standard view claims,",
-              "marshes are controlled by bottom-up factors, such as",
-              "nutrients and physical factors."
-            ]
-        },
-        "S3_Questions_15_17": {
-            "title": "",
-            "content": [
-              "Last year, Mayor Stephens established a special",
-              "law-enforcement task force with the avowed mission",
-              "of eradicating corruption in city government. The",
-              "mayor's handpicked task force has now begun",
-              "prosecuting a dozen city official. Since all of these",
-              "officials were appointed by Mayor Bixby, Mayor",
-              "Stephens' predecessor and longtime political foe, it is",
-              "clear that those being prosecuted have been targeted"
-            ]
-        },
-        "S3_Questions_18_20": {
-            "title": "",
-            "content": [
-              "The decrease in responsiveness that follows",
-              "continuous stimulation (adaptation) is common to all",
-              "sensory systems, including olfaction. With continued",
-              "exposure to chronically preset ambient odors,",
-              "individuals' perception of odor intensity is greatly",
-              "reduced. Moreover, these perceptual changes can be",
-              "profound and durable. It is commonly reported that",
-              "following extended absences from the odorous",
-              "environment, reexposure may still fail to elicit",
-              "perception at the original intensity.",
-              "Most research on olfactory adaptation examines",
-              "relatively transient changes in stimulus detection or",
-              "percieved intensity\u2013rarely exceeding several hours",
-              "and often less\u2013but because olfactory adaptation can",
-              "be produced with relatively short exposures, these",
-              "durations are sufficient for investigating many",
-              "parameters of the phenomenon. However, exposures",
-              "to odors in natural environments often occur over far",
-              "longer periods, and the resulting adaptations may",
-              "differ qualitatively from short-term olfactory",
-              "adaptation. For example, studies show that even brief",
-              "periods of odorant stimulation produce transient",
-              "reductions in receptors in the olfactory epithelium, a",
-              "process termed \"receptor fatigue.\" Prolonged odor",
-              "stimulation, however, could produce more",
-              "long-lasting reductions in response, possibly",
-              "involving structures higher in the central nervous"
-            ]
-        },
-        "S3_Questions_21_23": {
-            "title": "",
-            "content": [
-              "Among academics involved in the study of",
-              "Northern Renaissance prints (reproducible graphic",
-              "artworks), an orthodox position can be said to have",
-              "emerged. This position regards Renaissance prints as",
-              "passive representations of their time\u2013documents that",
-              "reliably record contemporary events, opinions, and",
-              "beliefs\u2013and therefore as an important means of",
-              "accessing the popular contemporary conciousness.",
-              "In contrast, pioneering studies such as those by",
-              "Scribner and Moxey take a strikingly different",
-              "approach, according to which Northern Renaissance",
-              "prints were purposeful, active, and important shaping",
-              "forces in the communities that produced them.",
-              "Scribner, for example, contends that religious and",
-              "political prints of the German Reformatio",
-              "(ca. 1517-1555) functioned as popular propaganda:",
-              "tools in a vigorous campaign aimed at altering"
-            ]
-        },
-        "S3_Questions_24_26": {
-            "title": "",
-            "content": [
-              "Recently an unusually high number of dolphins",
-              "have been found dead of infectious diseases, and",
-              "most of these had abnormally high tissue",
-              "concentrations of certain compounds that, even in",
-              "low concentrations, reduce dolphins' resistance to",
-              "infection. The only source of these compounds in the",
-              "dolphins' environment is boat paint. Therefore, since",
-              "dolphins rid their bodies of the compounds rapidly",
-              "once exposure ceases, their mortality rate should"
-            ]
-        },
-        "S4_Questions_9_12": {
-            "title": "S4 Questions 9-12",
-            "content": [
+            "S3_Questions_9_11": {
+              "title": "",
+              "content": [
+                "Historian F. W. Maitland observed that legal",
+                "documents are the best\u2013indeed, often the",
+                "only\u2013available evidence about the economic and",
+                "social history of a given period. Why, then, has it",
+                "taken so long for historians to focus systematically on",
+                "the civil (noncriminal) law of early modern",
+                "(sixteenth- to eighteenth-century) England? Maitland",
+                "offered one reason: the subject requires researchers to",
+                "\"master an extremely formal system of pleading and",
+                "procedure.\" Yet the complexities that confront those",
+                "who would study such materials are not wholly",
+                "different from those recently surmounted by",
+                "historians of criminal law in England during the same",
+                "period. Another possible explanation for historians'",
+                "neglect of the subject is their widespread assumption",
+                "that most people in early modern England had little",
+                "contact with civil law. If that were so, the history of",
+                "legal matters would be of little relevance to general",
+                "historical scholarship. But recent research suggests",
+                "that civil litigation during the period involved",
+                "artisans, merchants, professionals, shopkeepers, and",
+                "farmers, and not merely a narrow, propertied, male",
+                "elite. Moreover, the later sixteenth and early",
+                "seventeenth centuries saw an extraordinary explosion",
+                "in civil litigation by both women and men, making",
+                "this the most litigious era in English history on a"
+              ]
+            },
+            "S3_Questions_12_13": {
+              "title": "",
+              "content": [
+                "Geese can often be seen grazing in coastal",
+                "salt marshes. Unfortunately, their intense grazing",
+                "removes the grassy covering, exposing marsh",
+                "sediment; this increases evaporation, which in turn",
+                "increases salt concentration in marsh sediments.",
+                "Because of this increased concentration, regrowth of",
+                "plants is minimal, leading to increased erosion, which",
+                "leads to a decrease in the fertile topsoil, leading to",
+                "even less regrowth. In time, the salt marsh becomes a",
+                "mudflat. This process challenges one of the most",
+                "widely held beliefs about the dynamics of salt-marsh",
+                "ecosystems: supposedly, consumers such as gesese do",
+                "not play a large role in controlling the productivity of",
+                "marsh systems. Rather, the standard view claims,",
+                "marshes are controlled by bottom-up factors, such as",
+                "nutrients and physical factors."
+              ]
+            },
+            "S3_Questions_14_14": {
+              "title": "",
+              "content": [
+                "Last year, Mayor Stephens established a special",
+                "law-enforcement task force with the avowed mission",
+                "of eradicating corruption in city government. The",
+                "mayor's handpicked task force has now begun",
+                "prosecuting a dozen city official. Since all of these",
+                "officials were appointed by Mayor Bixby, Mayor",
+                "Stephens' predecessor and longtime political foe, it is",
+                "clear that those being prosecuted have been targeted"
+              ]
+            },
+            "S3_Questions_20_22": {
+              "title": "",
+              "content": [
+                "The decrease in responsiveness that follows",
+                "continuous stimulation (adaptation) is common to all",
+                "sensory systems, including olfaction. With continued",
+                "exposure to chronically preset ambient odors,",
+                "individuals' perception of odor intensity is greatly",
+                "reduced. Moreover, these perceptual changes can be",
+                "profound and durable. It is commonly reported that",
+                "following extended absences from the odorous",
+                "environment, reexposure may still fail to elicit",
+                "perception at the original intensity.",
+                "Most research on olfactory adaptation examines",
+                "relatively transient changes in stimulus detection or",
+                "percieved intensity\u2013rarely exceeding several hours",
+                "and often less\u2013but because olfactory adaptation can",
+                "be produced with relatively short exposures, these",
+                "durations are sufficient for investigating many",
+                "parameters of the phenomenon. However, exposures",
+                "to odors in natural environments often occur over far",
+                "longer periods, and the resulting adaptations may",
+                "differ qualitatively from short-term olfactory",
+                "adaptation. For example, studies show that even brief",
+                "periods of odorant stimulation produce transient",
+                "reductions in receptors in the olfactory epithelium, a",
+                "process termed \"receptor fatigue.\" Prolonged odor",
+                "stimulation, however, could produce more",
+                "long-lasting reductions in response, possibly",
+                "involving structures higher in the central nervous"
+              ]
+            },
+            "S3_Questions_23_24": {
+              "title": "",
+              "content": [
+                "Among academics involved in the study of",
+                "Northern Renaissance prints (reproducible graphic",
+                "artworks), an orthodox position can be said to have",
+                "emerged. This position regards Renaissance prints as",
+                "passive representations of their time\u2013documents that",
+                "reliably record contemporary events, opinions, and",
+                "beliefs\u2013and therefore as an important means of",
+                "accessing the popular contemporary conciousness.",
+                "In contrast, pioneering studies such as those by",
+                "Scribner and Moxey take a strikingly different",
+                "approach, according to which Northern Renaissance",
+                "prints were purposeful, active, and important shaping",
+                "forces in the communities that produced them.",
+                "Scribner, for example, contends that religious and",
+                "political prints of the German Reformatio",
+                "(ca. 1517-1555) functioned as popular propaganda:",
+                "tools in a vigorous campaign aimed at altering"
+              ]
+            },
+            "S3_Questions_25_25": {
+              "title": "",
+              "content": [
+                "Recently an unusually high number of dolphins",
+                "have been found dead of infectious diseases, and",
+                "most of these had abnormally high tissue",
+                "concentrations of certain compounds that, even in",
+                "low concentrations, reduce dolphins' resistance to",
+                "infection. The only source of these compounds in the",
+                "dolphins' environment is boat paint. Therefore, since",
+                "dolphins rid their bodies of the compounds rapidly",
+                "once exposure ceases, their mortality rate should"
+              ]
+            },
+            "S4_Questions_9_12": {
+              "title": "",
+              "content": [
                 "The work of English writer Aphra Behn",
                 "(1640-1689) changed markedly during the 1680s, as",
                 "she turned from writing plays to writing prose",
@@ -178,8 +177,8 @@
                 "sphere. Moreover, according to Carnell, Behn",
                 "questioned the view promulgated by monarchist",
                 "dramatic tragedies such as Dryden's: that the",
-                "envisioned \"public\" political ideal–passive",
-                "obedience to the nation's king–ought to be mirrored",
+                "envisioned \"public\" political ideal\u2013passive",
+                "obedience to the nation's king\u2013ought to be mirrored",
                 "in the private sphere, with family members wholly",
                 "obedient to a male head of household. Carnell sees",
                 "Behn's novels not only as rejecting the model of",
@@ -193,19 +192,108 @@
                 "distinction between the public and private spheres.",
                 "Behn's novels engage in the political dialogue of her",
                 "era by demonstrating that the good of the nation",
-                "ultimately encompasses more than the good of the",
-                "public figures who rule it."
-                ] 
-        },
-        
-        "S4_Questions_13_14": [
-        ],
-        "S4_Question_15": [
-        ],
-        "S4_Questions_16_19": [
-        ],
-        "S4_Questions_20_25": [
-        ]
+                "ultimately encompasses more than the good of the"
+              ]
+            },
+            "S4_Questions_13_14": {
+              "title": "",
+              "content": [
+                "Computers cannot accurately predict climate",
+                "change unless the mathematical equations fed into",
+                "them adequately capture the natural meteorological",
+                "processes they are intended to simulate. Moreover,",
+                "there are processes that influence climate, such as",
+                "modifications in land use, that scientists do not know",
+                "how to simulate. The failure to incorporate such a",
+                "process into a computer climate model can lead the",
+                "model astray because a small initial effect can initiate",
+                "a feedback cycle: a perturbation in one variable",
+                "modifies a second variable, which in turn amplifies",
+                "the original disturbance. An increase in temperature,",
+                "for example, can boost the moisture content of the",
+                "atmosphere, which then causes further warming",
+                "because water vapor is a greenhouse gas."
+              ]
+            },
+            "S4_Questions15_15": {
+              "title": "",
+              "content": [
+                "Extensive housing construction is underway in",
+                "Pataska Forest, the habitat of a large population of",
+                "deer. Because deer feed at the edges of forests, these",
+                "Line deer will be attracted to the spaces alongside the new",
+                "roads being cut through Pataska Forest to serve the",
+                "new residential areas. Consequently, once the",
+                "housing is occupied, the annual number of the forest's",
+                "deer hit by cars will be much higher than before",
+                "construction started."
+              ]
+            },
+            "S4_Questions_20_21": {
+              "title": "",
+              "content": [
+                "While chocolate was highly esteemed in",
+                "Mesoamerica, where it originated, its adoption in",
+                "Europe was initially slow. There is a common belief",
+                "that Europeans needed to \"transform\" chocolate to",
+                "make it appetizing. However, while Spaniards did put",
+                "sugar, which was unknown to indigenous Americans,",
+                "into chocolate beverages, this additive was not",
+                "completely innovative. Mesoamericans were already",
+                "sweetening chocolate with honey, and the step from",
+                "honey to sugar\u2013increasingly more available than",
+                "honey because of expanding sugar plantations in the",
+                "Americas\u2013is a small one. Likewise, although",
+                "Spaniards adjusted Mesoamerican recipes by using",
+                "European spices, the spices chosen suggest an",
+                "attempt to replicate harder-to-find native flowers.",
+                "There is no indication the Spaniards deliberately tried",
+                "to change the original flavor of chocolate."
+              ]
+            },
+            "S4_Questions_22_23": {
+              "title": "",
+              "content": [
+                "Biologists generally agree that birds and dinosaurs",
+                "are somehow related to one another. The agreement",
+                "ends there. Hypotheses regarding dinosaurian and",
+                "Line avian evolution are unusually diverse\u2013and often at",
+                "odds with one another. Confusion consequently",
+                "reigns over a broad spectrum of unanswered",
+                "questions dealing with avian origins and the biology",
+                "of dinosaurs and early birds. This confusion has been",
+                "exacerbated by a paucity of serious attempts to",
+                "synthesize and evaluate available data on the details",
+                "of avian and dinosaurian evolution. Too often, the job",
+                "of summarizing current knowledge of these subjects",
+                "has fallen to well-meaning but na\u00efve lay authors or",
+                "reporters. Consequently, both the public and the",
+                "scientific community have often been misled by",
+                "widespread dissemination of sensational but weakly",
+                "founded hypotheses."
+              ]
+            },
+            "S4_Questions_24_25": {
+              "title": "",
+              "content": [
+                "A portrait type that appeared with relentless",
+                "frequency in eighteenth-century England is the",
+                "familiar image of a gentleman poised with one hand",
+                "Line inside his partially unbuttoned waistcoat. Standard",
+                "interpretations of this portrait posture offer",
+                "observations of correspondence\u2013demonstrating",
+                "either that it mirrors actual social behavior or that it",
+                "borrows from classical statuary. Such explanations,",
+                "however, illuminate neither the source of this curious",
+                "convention nor the reason for its popularity. It is true",
+                "that in real life the \"hand-in\" was a common stance",
+                "for elite men. Still, there were other ways of",
+                "comporting the body that did not become winning",
+                "portrait formulas. And even if the \"hand-in\" portrait",
+                "does resemble certain classical statues, what accounts",
+                "for the adoption of this particular pose?"
+              ]
+            }
     },
     "questions": {
         "S3Q1": {
@@ -686,7 +774,7 @@
         "S3Q12": {
             "section": 3,
             "type": "reading_comprehension",
-            "lines_id": "S3_Questions_9_11",
+            "lines_id": "S3_Questions_12_14",
             "prompt": "The author discusses \"the standard view\" (line 14) most likely in order to identify a view that",
             "blanks": [
                 {
@@ -722,7 +810,7 @@
         "S3Q13": {
             "section": 3,
             "type": "reading_comprehension",
-            "lines_id": "S3_Questions_9_11",
+            "lines_id": "S3_Questions_12_14",
             "prompt": "According to the passage, which of the following is a widely held belief about geese?",
             "blanks": [
                 {
@@ -758,7 +846,7 @@
         "S3Q14": {
             "section": 3,
             "type": "reading_comprehension",
-            "lines_id": "S3_Questions_9_11",
+            "lines_id": "S3_Questions_12_14",
             "prompt": "Which of the following, if true, most weakens the editorial's argument?",
             "blanks": [
                 {
@@ -794,7 +882,7 @@
         "S3Q15": {
             "section": 3,
             "type": "reading_comprehension",
-            "lines_id": "S3_Questions_9_11",
+            "lines_id": "S3_Questions_15_17",
             "prompt": "The slower-learning monkeys searched __________ but unintelligently: although they worked closely together, they checked only the most obvious hiding places.",
             "blanks": [
                 {
@@ -834,7 +922,7 @@
         "S3Q16": {
             "section": 3,
             "type": "reading_comprehension",
-            "lines_id": "S3_Questions_9_11",
+            "lines_id": "S3_Questions_15_17",
             "prompt": "By about age eight, children's phonetic capacities are fully developed but still __________; thus children at that age can learn to speak a new language with a native speaker's accent.",
             "blanks": [
                 {
@@ -874,7 +962,7 @@
         "S3Q17": {
             "section": 3,
             "type": "reading_comprehension",
-            "lines_id": "S3_Questions_9_11",
+            "lines_id": "S3_Questions_15_17",
             "prompt": "In medieval philosophy every physical phenomenon is presumed to have some determinate cause, leaving no place for __________ in the explanation of particular events.",
             "blanks": [
                 {
@@ -914,7 +1002,7 @@
         "S3Q18": {
             "section": 3,
             "type": "reading_comprehension",
-            "lines_id": "S3_Questions_9_11",
+            "lines_id": "S3_Questions_18_20",
             "prompt": "Although the film is rightly judged imperfect by most of today's critics, the films being created today are __________ it, since its release in 1940 provoked sufficient critical discussion to enhance the intellectual respectability of cinema considerably.",
             "blanks": [
                 {
@@ -954,7 +1042,7 @@
         "S3Q19": {
             "section": 3,
             "type": "reading_comprehension",
-            "lines_id": "S3_Questions_9_11",
+            "lines_id": "S3_Questions_18_20",
             "prompt": "The detective's conviction that there were few inept crimes in her district led her to impute some degree of __________ to every suspect she studied.",
             "blanks": [
                 {
@@ -994,7 +1082,7 @@
         "S3Q20": {
             "section": 3,
             "type": "reading_comprehension",
-            "lines_id": "S3_Questions_9_11",
+            "lines_id": "S3_Questions_18_20",
             "prompt": "According to the passage, the phenomenon of olfactory adaptation may cause individuals who are reexposed to an odorous environment after an extended absence to",
             "blanks": [
                 {
@@ -1030,7 +1118,7 @@
         "S3Q21": {
             "section": 3,
             "type": "reading_comprehension",
-            "lines_id": "S3_Questions_9_11",
+            "lines_id": "S3_Questions_21_23",
             "prompt": "The passage asserts which of the following about the exposures involved in the \"research on olfactory adaptation\" (line 11)?",
             "blanks": [
                 {
@@ -1066,7 +1154,7 @@
         "S3Q22": {
             "section": 3,
             "type": "reading_comprehension",
-            "lines_id": "S3_Questions_9_11",
+            "lines_id": "S3_Questions_21_23",
             "prompt": "The author of the passage discusses \"receptor fatigue\" (line 24) primarily in order to",
             "blanks": [
                 {
@@ -1130,7 +1218,7 @@
         "S3Q24": {
             "section": 3,
             "type": "reading_comprehension",
-            "lines_id": "S3_Questions_9_11",
+            "lines_id": "S3_Questions_24_25",
             "prompt": "Replacement of the word \"passive\" (line 5) with which of the following words results in the least change in meaning for the passage?",
             "blanks": [
                 {
@@ -1166,7 +1254,7 @@
         "S3Q25": {
             "section": 3,
             "type": "reading_comprehension",
-            "lines_id": "S3_Questions_9_11",
+            "lines_id": "S3_Questions_24_25",
             "prompt": "Which of the following, if true, most strengthens the argument?",
             "blanks": [
                 {
@@ -1631,131 +1719,499 @@
             "p+": null,
             "explanation": "optional_explanation_text_9"
         },
-        "S4Q18": {
+        "S4Q10": {
             "section": 4,
-            "type": "text_completion",
-            "passage": {},
-            "prompt": "The passage describes Padgett as a complex individual with a mix of different traits that may appear to contradict each other. Specifically, colleagues describe her as both forthright and reticent, humble and _______ (i), and good-natured and _______ (ii). In her behavior as a businesswoman, Padgett herself does little to _______ (iii) these contradictions.",
-            "blanks": [
+            "type": "reading_comprehension",
+            "lines_id": "S4_Questions_9_12",
+            "prompt": "The passage suggests that Carnell sees Behn's novels featuring male protagonists as differing from dramatic tragedies such as Dryden's featuring male protagonists in that the former",
+            "choices": [
                 {
-                    "id": "i",
-                    "choices": [
-                        {
-                            "label": "A",
-                            "text": "diffident"
-                        },
-                        {
-                            "label": "B",
-                            "text": "eccentric"
-                        },
-                        {
-                            "label": "C",
-                            "text": "arrogant"
-                        }
-                    ]
+                    "label": "A",
+                    "text": "depict these characters as less than heroic in their public actions"
                 },
                 {
-                    "id": "ii",
-                    "choices": [
-                        {
-                        "label": "A",
-                        "text": "prickly"
-                        },
-                        {
-                        "label": "B",
-                        "text": "solicitous"
-                        },
-                        {
-                        "label": "C",
-                        "text": "phlegmatic"
-                        }
-                    ]
+                    "label": "B",
+                    "text": "emphasize the consequences of these characters' actions in the private sphere"
                 },
                 {
-                    "blank_id": "iii",
-                    "choices": [
-                        {
-                        "label": "A",
-                        "text": "dispel"
-                        },
-                        {
-                        "label": "B",
-                        "text": "fulfill"
-                        },
-                        {
-                        "label": "C",
-                        "text": "accentuate"
-                        }
-                    ]
+                    "label": "C",
+                    "text": "insist on a parallel between the public and the private spheres"
+                },
+                {
+                    "label": "D",
+                    "text": "are aimed at a predominantly female audience"
+                },
+                {
+                    "label": "E",
+                    "text": "depict family members who disobey these protagonists"
                 }
             ],
-            "answer": ["A", "B", "A"],
-            "p+": null,
-            "explanation": "optional_explanation_text_18"
-        },
-        "S4Q19": {
-            "section": 4,
-            "type": "text_completion",
-            "passage": {},
-            "prompt": "",
-            "blanks": [
-                {
-                    "id": "i",
-                    "choices": [
-                        {
-                            "label": "A",
-                            "text": ""
-                        },
-                        {
-                            "label": "B",
-                            "text": ""
-                        },
-                        {
-                            "label": "C",
-                            "text": ""
-                        }
-                    ]
-                },
-                {
-                    "id": "ii",
-                    "choices": [
-                        {
-                        "label": "D",
-                        "text": ""
-                        },
-                        {
-                        "label": "E",
-                        "text": ""
-                        },
-                        {
-                        "label": "F",
-                        "text": ""
-                        }
-                    ]
-                },
-                {
-                    "id": "iii",
-                    "choices": [
-                        {
-                        "label": "G",
-                        "text": ""
-                        },
-                        {
-                        "label": "H",
-                        "text": ""
-                        },
-                        {
-                        "label": "I",
-                        "text": ""
-                        }
-                    ]
-                }
-            ],
-            "answer": ["", "", ""],
+            "answer": ["B"],
             "p+": null,
             "explanation": ""
         },
-
+        "S4Q11": {
+            "section": 4,
+            "type": "reading_comprehension",
+            "lines_id": "S4_Questions_9_12",
+            "prompt": "The passage suggests that Carnell believes Behn held which of the following attitudes about the relationship between the private and public spheres?",
+            "choices": [
+                {
+                    "label": "A",
+                    "text": "The private sphere is more appropriate than is the public sphere as the setting for plays about political events."
+                },
+                {
+                    "label": "B",
+                    "text": "The structure of the private sphere should not replicate the hierarchial order of the public sphere."
+                },
+                {
+                    "label": "C",
+                    "text": "Actions in the private sphere are more fundamental to ensuring the good of the nation than are actions in the public sphere."
+                },
+                {
+                    "label": "D",
+                    "text": "Crimes committed in the private sphere are likely to cause tragedy in the public sphere rather than vice versa."
+                },
+                {
+                    "label": "E",
+                    "text": "The private sphere is the mirror in which issues affecting the public sphere can most clearly be seen"
+                }
+            ],
+            "answer": ["B"],
+            "p+": 52,
+            "explanation": ""
+        },
+        "S4Q12": {
+            "section": 4,
+            "type": "reading_comprehension",
+            "lines_id": "S4_Questions_9_12",
+            "prompt": "It can be inferred from the passage that the \"artificial distinction\" (lines 53-54) refers to the",
+            "choices": [
+                {
+                    "label": "A",
+                    "text": "practice utilized in dramatic tragedies of providing different structural models for the public and the private spheres"
+                },
+                {
+                    "label": "B",
+                    "text": "ideology of many dramatic tragedies that advocate passive obedience only in the private sphere and not in the public sphere"
+                },
+                {
+                    "label": "C",
+                    "text": "convention that drama ought to concern events in the public sphere and that novels ought to concern events in the private sphere"
+                },
+                {
+                    "label": "D",
+                    "text": "assumption made by the authors of conventional dramatic tragedies that legitimate tragic action occurs only in the public sphere"
+                },
+                {
+                    "label": "E",
+                    "text": "approach taken by the dramatic tragedies in depicting male and female characters differently, depending on whether their roles were public or private"
+                }
+            ],
+            "answer": ["D"],
+            "p+": 42,
+            "explanation": ""
+        },
+        "S4Q13": {
+            "section": 4,
+            "type": "reading_comprehension",
+            "lines_id": "S4_Questions_13_14",
+            "prompt": "The passage mentions which of the following as adversely affecting the accuracy of computer predictions of climate change",
+            "context": "For the following question, consider each of the choices separately and select *all* that apply.",
+            "choices": [
+                {
+                    "label": "A",
+                    "text": "Failure to allow for some of the processes that influence climate"
+                },
+                {
+                    "label": "B",
+                    "text": "Mathematical equations that do not accurately reflect natural phenomena"
+                },
+                {
+                    "label": "C",
+                    "text": "An overestimate of the role of feedback cycles"
+                }
+            ],
+            "answer": ["A", "B"],
+            "p+": 62,
+            "explanation": ""
+        },
+        "S4Q14": {
+            "section": 4,
+            "type": "reading_comprehension",
+            "lines_id": "S4_Questions_13_14",
+            "prompt": "In the context in which it appears, \"amplifies\" (line 11) most nearly means",
+            "choices": [
+                {
+                    "label": "A",
+                    "text": "exacerbates"
+                },
+                {
+                    "label": "B",
+                    "text": "explicates"
+                },
+                {
+                    "label": "C",
+                    "text": "expatiates"
+                },
+                {
+                    "label": "D",
+                    "text": "adds detail to"
+                },
+                {
+                    "label": "E",
+                    "text": "makes louder"
+                }
+            ],
+            "answer": ["A"],
+            "p+": 83,
+            "explanation": ""
+        },
+        "S4Q15": {
+            "section": 4,
+            "type": "reading_comprehension",
+            "lines_id": "S4_Questions_15_15",
+            "prompt": "Which of the following is an assumption on which the argument depends?",
+            "choices": [
+                {
+                    "label": "A",
+                    "text": "The number of deer hit by commercial vehicles will not increase significantly when the housing is occupied"
+                },
+                {
+                    "label": "B",
+                    "text": "Deer will be as attracted to the forest edge around new houses as to the forest edge alongside roads."
+                },
+                {
+                    "label": "C",
+                    "text": "In years past, the annual number of deer that have been hit by cars on existing roads through Pataska Forest has been very low"
+                },
+                {
+                    "label": "D",
+                    "text": "The development will leave sufficient forest to sustain a significant population of deer."
+                },
+                {
+                    "label": "E",
+                    "text": "No deer hunting will be allowed in Pataska Forest when the housing is occupied."
+                }
+            ],
+            "answer": ["D"],
+            "p+": 26,
+            "explanation": ""
+        },
+        "S4Q16": {
+            "section" : 4,
+            "type": "sentence_equivalence",
+            "prompt": "Female video artists' rise to prominence over the past 30 years has _____ the ascent of video as an art form: it is only within the past three decades that video art has attained its current, respected status.",
+            "context": "For each of Questions 16 to 19, select *two* answer choices that, when used to complete the sentence, fit the meaning of the sentence as a whole *and* produce completed sentences that are alike in meaning.",
+            "choices": [
+                {
+                    "label": "A",
+                    "text": "matched"
+                },
+                {
+                    "label": "B",
+                    "text": "politicized"
+                },
+                {
+                    "label": "C",
+                    "text": "paralleled"
+                },
+                {
+                    "label": "D",
+                    "text": "obviated"
+                },
+                {
+                    "label": "E",
+                    "text": "accelerated"
+                },
+                {
+                    "label": "F",
+                    "text": "forestalled"
+                }
+            ],
+            "answer" : ["A", "C"],
+            "p+": 67,
+            "explanation": ""
+        },
+        "S4Q17": {
+            "section" : 4,
+            "type": "sentence_equivalence",
+            "prompt": "The report's most significant weakness is its assumption that the phenomenon under study is _____, when in reality it is limited to a specific geographic area.",
+            "context": "For each of Questions 16 to 19, select *two* answer choices that, when used to complete the sentence, fit the meaning of the sentence as a whole *and* produce completed sentences that are alike in meaning.",
+            "choices": [
+                {
+                    "label": "A",
+                    "text": "unusual"
+                },
+                {
+                    "label": "B",
+                    "text": "exceptional"
+                },
+                {
+                    "label": "C",
+                    "text": "ubiquitous"
+                },
+                {
+                    "label": "D",
+                    "text": "absolute"
+                },
+                {
+                    "label": "E",
+                    "text": "universal"
+                },
+                {
+                    "label": "F",
+                    "text": "restricted"
+                }
+            ],
+            "answer" : ["C", "E"],
+            "p+": 68,
+            "explanation": ""
+        },
+        "S4Q18": {
+            "section" : 4,
+            "type": "sentence_equivalence",
+            "prompt": "The spy's repeated bungling was, above all else, _____ those who wished to thwart her efforts, since it was so unpredictable as to obscure any pattern that might otherwise lead to her capture.",
+            "context": "For each of Questions 16 to 19, select *two* answer choices that, when used to complete the sentence, fit the meaning of the sentence as a whole *and* produce completed sentences that are alike in meaning.",
+            "choices": [
+                {
+                    "label": "A",
+                    "text": "an obstacle to"
+                },
+                {
+                    "label": "B",
+                    "text": "a signal to"
+                },
+                {
+                    "label": "C",
+                    "text": "a hindrance to"
+                },
+                {
+                    "label": "D",
+                    "text": "an indication for"
+                },
+                {
+                    "label": "E",
+                    "text": "a snare for"
+                },
+                {
+                    "label": "F",
+                    "text": "a boon to"
+                }
+            ],
+            "answer" : ["A", "C"],
+            "p+": 82,
+            "explanation": ""
+        },
+        "S4Q19": {
+            "section" : 4,
+            "type": "sentence_equivalence",
+            "prompt": "Each member of the journalistic pair served as _____ the other: each refrained from publishing a given piece if the other doubted that it was ready to be printed.",
+            "context": "For each of Questions 16 to 19, select *two* answer choices that, when used to complete the sentence, fit the meaning of the sentence as a whole *and* produce completed sentences that are alike in meaning.",
+            "choices": [
+                {
+                    "label": "A",
+                    "text": "a check on"
+                },
+                {
+                    "label": "B",
+                    "text": "an advocate for"
+                },
+                {
+                    "label": "C",
+                    "text": "an impediment to"
+                },
+                {
+                    "label": "D",
+                    "text": "a brake on"
+                },
+                {
+                    "label": "E",
+                    "text": "an apologist for"
+                },
+                {
+                    "label": "F",
+                    "text": "an intermediary for"
+                }
+            ],
+            "answer" : ["A", "D"],
+            "p+": 26,
+            "explanation": ""
+        },
+        "S4Q20": {
+            "section": 4,
+            "type": "reading_comprehension",
+            "lines_id": "S4_Questions_20_25",
+            "prompt": "The author of the passage refers to the use of honey primarily to",
+            "context": "For each of Questions 20 to 25, select *one* answer choice unless otherwise directed.",
+            "choices": [
+                {
+                    "label": "A",
+                    "text": "identify the origins of an additive previously untried by Europeans"
+                },
+                {
+                    "label": "B",
+                    "text": "present an example of a product that was unknown to Europeans"
+                },
+                {
+                    "label": "C",
+                    "text": "correct the misapprehension that Mesoamericans used a sweetener that was not available in Europe"
+                },
+                {
+                    "label": "D",
+                    "text": "provide an example of an ingredient that was in the process of being displaced by a substitute"
+                },
+                {
+                    "label": "E",
+                    "text": "explain why the Spanish use of sugar in chocolate was not a sign of a need to transform chocolate"
+                }
+            ],
+            "answer": ["E"],
+            "p+": 65,
+            "explanation": ""
+        },
+        "S4Q21": {
+            "section": 4,
+            "type": "reading_comprehension",
+            "lines_id": "S4_Questions_20_25",
+            "prompt": "Which sentence presents a misconception that the passage challenges?",
+            "context": "For each of Questions 20 to 25, select *one* answer choice unless otherwise directed.",
+            "choices": [
+                {
+                    "label": "A",
+                    "text": "The second (\"There is .... appetizing\")"
+                },
+                {
+                    "label": "B",
+                    "text": "The third (\"However .... innovative\")"
+                },
+                {
+                    "label": "C",
+                    "text": "The fourth (\"Mesoamericans .... one\")"
+                },
+                {
+                    "label": "D",
+                    "text": "The fifth (\"Likewise . ... flowers\")"
+                },
+                {
+                    "label": "E",
+                    "text": "The sixth (\"There is . ... chocolate\")"
+                }
+            ],
+            "answer": ["A"],
+            "p+": 67,
+            "explanation": ""
+        },
+        "S4Q22": {
+            "section": 4,
+            "type": "reading_comprehension",
+            "lines_id": "S4_Questions_20_25",
+            "prompt": "The passage suggests that which of the following could help remedy the problem described in the final sentence (lines 14-17)?",
+            "context": "For the following question, consider each of the choices separately and select *all* that apply.",
+            "choices": [
+                {
+                    "label": "A",
+                    "text": "An article written by a biologist for the general public summarizing current theories about avian and dinosurian evolution"
+                },
+                {
+                    "label": "B",
+                    "text": "A close examination of available data on avian and dinosurian evolution"
+                },
+                {
+                    "label": "C",
+                    "text": "A new hypothesis regarding the connection between avian and dinosurian evolution"
+                }
+            ],
+            "answer": ["A", "B"],
+            "p+": 43,
+            "explanation": ""
+        },
+        "S4Q23": {
+            "section": 4,
+            "type": "reading_comprehension",
+            "lines_id": "S4_Questions_20_25",
+            "prompt": "In the context in which it appears, \"sensational\" (line 16) most nearly means",
+            "choices": [
+                {
+                    "label": "A",
+                    "text": "dramatic"
+                },
+                {
+                    "label": "B",
+                    "text": "The number of deer hit by commercial vehicles will not increase significantly when the housing is occupied"
+                },
+                {
+                    "label": "C",
+                    "text": "excellent"
+                },
+                {
+                    "label": "D",
+                    "text": "eminent"
+                },
+                {
+                    "label": "E",
+                    "text": "horrifying"
+                }
+            ],
+            "answer": ["A"],
+            "p+": 72,
+            "explanation": ""
+        },
+        "S4Q24": {
+            "section": 4,
+            "type": "reading_comprehension",
+            "lines_id": "S4_Questions_20_25",
+            "prompt": "In the context of the passage as a whole, the primary function of the sentence in lines 10-12 (\"It is ... men\") is to",
+            "choices": [
+                {
+                    "label": "A",
+                    "text": "emphasize the influence of a particular social class on the conventions of eighteenth-century English portraiture"
+                },
+                {
+                    "label": "B",
+                    "text": "account for the origin of a particular type of behavior frequently represented in eighteenth-century English portraiture"
+                },
+                {
+                    "label": "C",
+                    "text": "acknowledge a historical basis for two competing hypotheses about a particular portrait type"
+                },
+                {
+                    "label": "D",
+                    "text": "question the relevance of certain evidence frequently cited in support of an explanation for a particular portrait type"
+                },
+                {
+                    "label": "E",
+                    "text": "concede that one explanation for the prevalence of a particular portrait type has a basis in fact"
+                }
+            ],
+            "answer": ["E"],
+            "p+": 53,
+            "explanation": ""
+        },
+        "S4Q25": {
+            "section": 4,
+            "type": "reading_comprehension",
+            "lines_id": "S4_Questions_20_25",
+            "prompt": "Which of the following might provide an explanation for the popularity of hand-in portraits that would satisfy the author of the passage?",
+            "context": "For the following question, consider each of the choices separately and select *all* that apply.",
+            "choices": [
+                {
+                    "label": "A",
+                    "text": "An eighteenth-century English etiquette manual discussing the social implications of the \"hand-in\" stance"
+                },
+                {
+                    "label": "B",
+                    "text": "A comprehensive catalogue of eighteenth-century English portraits that showed what proportion of portraits depicted gentlemen in the \"hand-in\" stance"
+                },
+                {
+                    "label": "C",
+                    "text": "A passage from an eighteenth-century English novel in which a gentleman considers what stance to adopt when his portrait is painted"
+                }
+            ],
+            "answer": ["A", "C"],
+            "p+": 50,
+            "explanation": ""
+        },
         "S5Q2": {
             "section": 5,
             "type": "quantity_comparison",
