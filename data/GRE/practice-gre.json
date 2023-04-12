@@ -2041,7 +2041,7 @@
         "S4Q20": {
             "section": 4,
             "type": "reading_comprehension",
-            "lines_id": "S4_Questions_20_25",
+            "lines_id": "S4_Questions_20_21",
             "prompt": "The author of the passage refers to the use of honey primarily to",
             "context": "For each of Questions 20 to 25, select *one* answer choice unless otherwise directed.",
             "choices": [
@@ -2073,7 +2073,7 @@
         "S4Q21": {
             "section": 4,
             "type": "reading_comprehension",
-            "lines_id": "S4_Questions_20_25",
+            "lines_id": "S4_Questions_20_21",
             "prompt": "Which sentence presents a misconception that the passage challenges?",
             "context": "For each of Questions 20 to 25, select *one* answer choice unless otherwise directed.",
             "choices": [
@@ -2105,7 +2105,7 @@
         "S4Q22": {
             "section": 4,
             "type": "reading_comprehension",
-            "lines_id": "S4_Questions_20_25",
+            "lines_id": "S4_Questions_22_23",
             "prompt": "The passage suggests that which of the following could help remedy the problem described in the final sentence (lines 14-17)?",
             "context": "For the following question, consider each of the choices separately and select *all* that apply.",
             "choices": [
@@ -2129,7 +2129,7 @@
         "S4Q23": {
             "section": 4,
             "type": "reading_comprehension",
-            "lines_id": "S4_Questions_20_25",
+            "lines_id": "S4_Questions_22_23",
             "prompt": "In the context in which it appears, \"sensational\" (line 16) most nearly means",
             "choices": [
                 {
@@ -2160,7 +2160,7 @@
         "S4Q24": {
             "section": 4,
             "type": "reading_comprehension",
-            "lines_id": "S4_Questions_20_25",
+            "lines_id": "S4_Questions_24_25",
             "prompt": "In the context of the passage as a whole, the primary function of the sentence in lines 10-12 (\"It is ... men\") is to",
             "choices": [
                 {
@@ -2191,7 +2191,7 @@
         "S4Q25": {
             "section": 4,
             "type": "reading_comprehension",
-            "lines_id": "S4_Questions_20_25",
+            "lines_id": "S4_Questions_24_25",
             "prompt": "Which of the following might provide an explanation for the popularity of hand-in portraits that would satisfy the author of the passage?",
             "context": "For the following question, consider each of the choices separately and select *all* that apply.",
             "choices": [
