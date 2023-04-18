@@ -668,10 +668,7 @@
             "type": "reading_comprehension",
             "lines_id": "S3_Questions_9_11",
             "prompt": "The passage suggests that the history of criminal law in early modern England differs from the history of civil law during that same period in that the history of criminal law",
-            "blanks":[
-                {
-                    "id": "i",
-                    "choices": [ 
+            "choices": [ 
                         {
                             "label": "A",
                             "text": "is of more intellectual interest to historians and their readers"
@@ -692,9 +689,7 @@
                             "label": "E",
                             "text": "does not require the mastery of an extremely formal system of procedures"
                         }
-                    ]
-                }
-            ],
+                    ],
             "answer": ["B"],
             "p+": 58,
             "explanation": "optional_explanation_text_9"
@@ -704,31 +699,26 @@
             "type": "reading_comprehension",
             "lines_id": "S3_Questions_9_11",
             "prompt": "The author of the passage mentions the occupations of those involved in civil litigation in early modern England most likely in order to",
-            "blanks": [
+            "choices": [
                 {
-                    "id": "i",
-                    "choices": [
-                        {
-                            "label": "A",
-                            "text": "suggest that most historians' assumptions about the participants in the civil legal system during that period are probably correct"
-                        },
-                        {
-                            "label": "B",
-                            "text": "support the theory that more people participated in the civil legal system than the criminal legal system in England during that period"
-                        },
-                        {
-                            "label": "C",
-                            "text": "counter the claim that legal issues reveal more about a country's ordinary citizens than about its elite"
-                        },
-                        {
-                            "label": "D",
-                            "text": "illustrate the wide range of people who used the civil legal system in England during that period"
-                        },
-                        {
-                            "label": "E",
-                            "text": "suggest that recent data on people who participated in early modern England's legal system may not be correct"
-                        }
-                    ]
+                    "label": "A",
+                    "text": "suggest that most historians' assumptions about the participants in the civil legal system during that period are probably correct"
+                },
+                {
+                    "label": "B",
+                    "text": "support the theory that more people participated in the civil legal system than the criminal legal system in England during that period"
+                },
+                {
+                    "label": "C",
+                    "text": "counter the claim that legal issues reveal more about a country's ordinary citizens than about its elite"
+                },
+                {
+                    "label": "D",
+                    "text": "illustrate the wide range of people who used the civil legal system in England during that period"
+                },
+                {
+                    "label": "E",
+                    "text": "suggest that recent data on people who participated in early modern England's legal system may not be correct"
                 }
             ],
             "answer": ["D"],
@@ -740,31 +730,26 @@
             "type": "reading_comprehension",
             "lines_id": "S3_Questions_9_11",
             "prompt": "The author of the passage suggests which of the following about the \"widespread assumption\" (line 15)?",
-            "blanks": [
+            "choices": [
                 {
-                    "id": "i",
-                    "choices": [
-                        {
-                            "label": "A",
-                            "text": "Because it is true, the history of civil law is of as much interest to historians focusing on general social history as to those specializing in legal history."
-                        },
-                        {
-                            "label": "B",
-                            "text": "Because it is inaccurate, the history of civil law in early modern England should enrich the general historical scholarship of that period."
-                        },
-                        {
-                            "label": "C",
-                            "text": "It is based on inaccurate data about the propertied male elite of early modern England."
-                        },
-                        {
-                            "label": "D",
-                            "text": "It does not provide a plausible explanation for historians' failure to study the civil law of early modern England."
-                        },
-                        {
-                            "label": "E",
-                            "text": "It is based on an analogy with criminal law in early modern England."
-                        }
-                    ]
+                    "label": "A",
+                    "text": "Because it is true, the history of civil law is of as much interest to historians focusing on general social history as to those specializing in legal history."
+                },
+                {
+                    "label": "B",
+                    "text": "Because it is inaccurate, the history of civil law in early modern England should enrich the general historical scholarship of that period."
+                },
+                {
+                    "label": "C",
+                    "text": "It is based on inaccurate data about the propertied male elite of early modern England."
+                },
+                {
+                    "label": "D",
+                    "text": "It does not provide a plausible explanation for historians' failure to study the civil law of early modern England."
+                },
+                {
+                    "label": "E",
+                    "text": "It is based on an analogy with criminal law in early modern England."
                 }
             ],
             "answer":["B"],
@@ -776,31 +761,26 @@
             "type": "reading_comprehension",
             "lines_id": "S3_Questions_12_14",
             "prompt": "The author discusses \"the standard view\" (line 14) most likely in order to identify a view that",
-            "blanks": [
+            "choices": [
                 {
-                    "id": "i",
-                    "choices": [
-                        {
-                            "label": "A",
-                            "text": "explains the occurrence of the chain of events described in the passage"
-                        },
-                        {
-                            "label": "B",
-                            "text": "provides a summary of the chain of events described in the passage"
-                        },
-                        {
-                            "label": "C",
-                            "text": "is called into question by the chain of events described in the passage"
-                        },
-                        {
-                            "label": "D",
-                            "text": "advocates reassessment of the widely held belief described in the passage"
-                        },
-                        {
-                            "label": "E",
-                            "text": "is undermined by the widely held belief described in the passage"
-                        }
-                    ]
+                    "label": "A",
+                    "text": "explains the occurrence of the chain of events described in the passage"
+                },
+                {
+                    "label": "B",
+                    "text": "provides a summary of the chain of events described in the passage"
+                },
+                {
+                    "label": "C",
+                    "text": "is called into question by the chain of events described in the passage"
+                },
+                {
+                    "label": "D",
+                    "text": "advocates reassessment of the widely held belief described in the passage"
+                },
+                {
+                    "label": "E",
+                    "text": "is undermined by the widely held belief described in the passage"
                 }
             ],
             "answer": ["C"],
@@ -812,31 +792,26 @@
             "type": "reading_comprehension",
             "lines_id": "S3_Questions_12_14",
             "prompt": "According to the passage, which of the following is a widely held belief about geese?",
-            "blanks": [
+            "choices": [
                 {
-                    "id": "i",
-                    "choices": [
-                        {
-                            "label": "A",
-                            "text": "They are not often seen grazing in coastal salt marshes."
-                        },
-                        {
-                            "label": "B",
-                            "text": "They are not the primary consumers in salt-marsh ecosystems."
-                        },
-                        {
-                            "label": "C",
-                            "text": "They play only a minor role in the productivity of salt-marsh ecosystems."
-                        },
-                        {
-                            "label": "D",
-                            "text": "They are the primary determinants of which resources will thrive in coastal salt marshes."
-                        },
-                        {
-                            "label": "E",
-                            "text": "They control the productivity of salt-marsh ecosystems through a bottom-up process."
-                        }
-                    ]
+                    "label": "A",
+                    "text": "They are not often seen grazing in coastal salt marshes."
+                },
+                {
+                    "label": "B",
+                    "text": "They are not the primary consumers in salt-marsh ecosystems."
+                },
+                {
+                    "label": "C",
+                    "text": "They play only a minor role in the productivity of salt-marsh ecosystems."
+                },
+                {
+                    "label": "D",
+                    "text": "They are the primary determinants of which resources will thrive in coastal salt marshes."
+                },
+                {
+                    "label": "E",
+                    "text": "They control the productivity of salt-marsh ecosystems through a bottom-up process."
                 }
             ],
             "answer": ["C"],
@@ -848,31 +823,26 @@
             "type": "reading_comprehension",
             "lines_id": "S3_Questions_12_14",
             "prompt": "Which of the following, if true, most weakens the editorial's argument?",
-            "blanks": [
+            "choices": [
                 {
-                    "id": "i",
-                    "choices": [
-                        {
-                            "label": "A",
-                            "text": "Complaints of official corruption in city government have decreased since the anticorruption task force began operating."
-                        },
-                        {
-                            "label": "B",
-                            "text": "Former mayor Bixby did not publicly oppose Mayor Stephens' establishment of the anticorruption task force."
-                        },
-                        {
-                            "label": "C",
-                            "text": "Almost all of the officials who have served in city government for any length of time are appointees of Mayor Bixby."
-                        },
-                        {
-                            "label": "D",
-                            "text": "All of the members of the anticorruption task force had other jobs in city government before the task force was formed."
-                        },
-                        {
-                            "label": "E",
-                            "text": "During the last mayoral election campaign, then-Mayor Bixby hotly disputed the current mayor's claim that there was widespread corruption in city government."
-                        }
-                    ]
+                    "label": "A",
+                    "text": "Complaints of official corruption in city government have decreased since the anticorruption task force began operating."
+                },
+                {
+                    "label": "B",
+                    "text": "Former mayor Bixby did not publicly oppose Mayor Stephens' establishment of the anticorruption task force."
+                },
+                {
+                    "label": "C",
+                    "text": "Almost all of the officials who have served in city government for any length of time are appointees of Mayor Bixby."
+                },
+                {
+                    "label": "D",
+                    "text": "All of the members of the anticorruption task force had other jobs in city government before the task force was formed."
+                },
+                {
+                    "label": "E",
+                    "text": "During the last mayoral election campaign, then-Mayor Bixby hotly disputed the current mayor's claim that there was widespread corruption in city government."
                 }
             ],
             "answer": ["C"],
@@ -884,35 +854,30 @@
             "type": "reading_comprehension",
             "lines_id": "S3_Questions_15_17",
             "prompt": "The slower-learning monkeys searched __________ but unintelligently: although they worked closely together, they checked only the most obvious hiding places.",
-            "blanks": [
+            "choices": [
                 {
-                    "id": "i",
-                    "choices": [
-                        {
-                            "label": "A",
-                            "text": "competitively"
-                        },
-                        {
-                            "label": "B",
-                            "text": "impulsively"
-                        },
-                        {
-                            "label": "C",
-                            "text": "cooperatively"
-                        },
-                        {
-                            "label": "D",
-                            "text": "deviously"
-                        },
-                        {
-                            "label": "E",
-                            "text": "craftily"
-                        },
-                        {
-                            "label": "F",
-                            "text": "harmoniously"
-                        }
-                    ]
+                    "label": "A",
+                    "text": "competitively"
+                },
+                {
+                    "label": "B",
+                    "text": "impulsively"
+                },
+                {
+                    "label": "C",
+                    "text": "cooperatively"
+                },
+                {
+                    "label": "D",
+                    "text": "deviously"
+                },
+                {
+                    "label": "E",
+                    "text": "craftily"
+                },
+                {
+                    "label": "F",
+                    "text": "harmoniously"
                 }
             ],
             "answer": ["C", "F"],
@@ -964,35 +929,30 @@
             "type": "reading_comprehension",
             "lines_id": "S3_Questions_15_17",
             "prompt": "In medieval philosophy every physical phenomenon is presumed to have some determinate cause, leaving no place for __________ in the explanation of particular events.",
-            "blanks": [
+            "choices": [
                 {
-                    "id": "i",
-                    "choices": [
-                        {
-                            "label": "A",
-                            "text": "happenstance"
-                        },
-                        {
-                            "label": "B",
-                            "text": "chance"
-                        },
-                        {
-                            "label": "C",
-                            "text": "error"
-                        },
-                        {
-                            "label": "D",
-                            "text": "experience"
-                        },
-                        {
-                            "label": "E",
-                            "text": "context"
-                        },
-                        {
-                            "label": "F",
-                            "text": "miscalculation"
-                        }
-                    ]
+                    "label": "A",
+                    "text": "happenstance"
+                },
+                {
+                    "label": "B",
+                    "text": "chance"
+                },
+                {
+                    "label": "C",
+                    "text": "error"
+                },
+                {
+                    "label": "D",
+                    "text": "experience"
+                },
+                {
+                    "label": "E",
+                    "text": "context"
+                },
+                {
+                    "label": "F",
+                    "text": "miscalculation"
                 }
             ],
             "answer": ["A", "B"],
@@ -1004,35 +964,30 @@
             "type": "reading_comprehension",
             "lines_id": "S3_Questions_18_20",
             "prompt": "Although the film is rightly judged imperfect by most of today's critics, the films being created today are __________ it, since its release in 1940 provoked sufficient critical discussion to enhance the intellectual respectability of cinema considerably.",
-            "blanks": [
+            "choices": [
                 {
-                    "id": "i",
-                    "choices": [
-                        {
-                            "label": "A",
-                            "text": "beholden to"
-                        },
-                        {
-                            "label": "B",
-                            "text": "indebted to"
-                        },
-                        {
-                            "label": "C",
-                            "text": "derivative of"
-                        },
-                        {
-                            "label": "D",
-                            "text": "based on"
-                        },
-                        {
-                            "label": "E",
-                            "text": "distinguishable from"
-                        },
-                        {
-                            "label": "F",
-                            "text": "biased against"
-                        }
-                    ]
+                    "label": "A",
+                    "text": "beholden to"
+                },
+                {
+                    "label": "B",
+                    "text": "indebted to"
+                },
+                {
+                    "label": "C",
+                    "text": "derivative of"
+                },
+                {
+                    "label": "D",
+                    "text": "based on"
+                },
+                {
+                    "label": "E",
+                    "text": "distinguishable from"
+                },
+                {
+                    "label": "F",
+                    "text": "biased against"
                 }
             ],
             "answer": ["A", "B"],
@@ -1044,35 +999,30 @@
             "type": "reading_comprehension",
             "lines_id": "S3_Questions_18_20",
             "prompt": "The detective's conviction that there were few inept crimes in her district led her to impute some degree of __________ to every suspect she studied.",
-            "blanks": [
+            "choices": [
                 {
-                    "id": "i",
-                    "choices": [
-                        {
-                            "label": "A",
-                            "text": "deceit"
-                        },
-                        {
-                            "label": "B",
-                            "text": "acumen"
-                        },
-                        {
-                            "label": "C",
-                            "text": "duplicity"
-                        },
-                        {
-                            "label": "D",
-                            "text": "shrewdness"
-                        },
-                        {
-                            "label": "E",
-                            "text": "evasiveness"
-                        },
-                        {
-                            "label": "F",
-                            "text": "equivocation"
-                        }
-                    ]
+                    "label": "A",
+                    "text": "deceit"
+                },
+                {
+                    "label": "B",
+                    "text": "acumen"
+                },
+                {
+                    "label": "C",
+                    "text": "duplicity"
+                },
+                {
+                    "label": "D",
+                    "text": "shrewdness"
+                },
+                {
+                    "label": "E",
+                    "text": "evasiveness"
+                },
+                {
+                    "label": "F",
+                    "text": "equivocation"
                 }
             ],
             "answer": ["B", "D"],
@@ -1084,31 +1034,26 @@
             "type": "reading_comprehension",
             "lines_id": "S3_Questions_18_20",
             "prompt": "According to the passage, the phenomenon of olfactory adaptation may cause individuals who are reexposed to an odorous environment after an extended absence to",
-            "blanks": [
+            "choices": [
                 {
-                    "id": "i",
-                    "choices": [
-                        {
-                            "label": "A",
-                            "text": "experience a heightened perception of the odor"
-                        },
-                        {
-                            "label": "B",
-                            "text": "perceive the odor as being less intense than it was upon first exposure"
-                        },
-                        {
-                            "label": "C",
-                            "text": "return to their original level of perception of the odor"
-                        },
-                        {
-                            "label": "D",
-                            "text": "exhibit a decreased tolerance for the odorous environment"
-                        },
-                        {
-                            "label": "E",
-                            "text": "experience the phenomenon of adaptation in other sensory systems"
-                        }
-                    ]
+                    "label": "A",
+                    "text": "experience a heightened perception of the odor"
+                },
+                {
+                    "label": "B",
+                    "text": "perceive the odor as being less intense than it was upon first exposure"
+                },
+                {
+                    "label": "C",
+                    "text": "return to their original level of perception of the odor"
+                },
+                {
+                    "label": "D",
+                    "text": "exhibit a decreased tolerance for the odorous environment"
+                },
+                {
+                    "label": "E",
+                    "text": "experience the phenomenon of adaptation in other sensory systems"
                 }
             ],
             "answer": ["B"],
@@ -1120,31 +1065,26 @@
             "type": "reading_comprehension",
             "lines_id": "S3_Questions_21_23",
             "prompt": "The passage asserts which of the following about the exposures involved in the \"research on olfactory adaptation\" (line 11)?",
-            "blanks": [
+            "choices": [
                 {
-                    "id": "i",
-                    "choices": [
-                        {
-                            "label": "A",
-                            "text": "The exposures are of long enough duration for researchers to investigate many aspects of olfactory adaptation."
-                        },
-                        {
-                            "label": "B",
-                            "text": "The exposures have rarely consisted of reexposures following extended absences from the odorous environment."
-                        },
-                        {
-                            "label": "C",
-                            "text": "The exposures are intended to reproduce the relatively transient olfactory changes typical of exposures to odors in natural environments."
-                        },
-                        {
-                            "label": "D",
-                            "text": "Those exposures of relatively short duration are often insufficient to produce the phenomenon of receptor fatigue in study subjects."
-                        },
-                        {
-                            "label": "E",
-                            "text": "Those exposures lasting several hours produce reductions in receptors in the olfactory epithelium that are similar to the reductions caused by prolonged odor stimulation."
-                        }
-                    ]
+                    "label": "A",
+                    "text": "The exposures are of long enough duration for researchers to investigate many aspects of olfactory adaptation."
+                },
+                {
+                    "label": "B",
+                    "text": "The exposures have rarely consisted of reexposures following extended absences from the odorous environment."
+                },
+                {
+                    "label": "C",
+                    "text": "The exposures are intended to reproduce the relatively transient olfactory changes typical of exposures to odors in natural environments."
+                },
+                {
+                    "label": "D",
+                    "text": "Those exposures of relatively short duration are often insufficient to produce the phenomenon of receptor fatigue in study subjects."
+                },
+                {
+                    "label": "E",
+                    "text": "Those exposures lasting several hours produce reductions in receptors in the olfactory epithelium that are similar to the reductions caused by prolonged odor stimulation."
                 }
             ],
             "answer": ["A"],
@@ -1156,31 +1096,26 @@
             "type": "reading_comprehension",
             "lines_id": "S3_Questions_21_23",
             "prompt": "The author of the passage discusses \"receptor fatigue\" (line 24) primarily in order to",
-            "blanks": [
+            "choices": [
                 {
-                    "id": "i",
-                    "choices": [
-                        {
-                            "label": "A",
-                            "text": "explain the physiological process through which long-lasting reductions in response are thought to be produced"
-                        },
-                        {
-                            "label": "B",
-                            "text": "provide an example of a process that subjects would probably not experience during a prolonged period of odorant stimulation"
-                        },
-                        {
-                            "label": "C",
-                            "text": "help illustrate how the information gathered from most olfactory research may not be sufficient to describe the effects of extended exposures to odors"
-                        },
-                        {
-                            "label": "D",
-                            "text": "show how studies of short-term olfactory adaptation have only accounted for the reductions in response that follow relatively brief absences from an odorous environment"
-                        },
-                        {
-                            "label": "E",
-                            "text": "qualify a statement about the severity and duration of the perceptual changes caused by exposure to chronically present ambient odors"
-                        }
-                    ]
+                    "label": "A",
+                    "text": "explain the physiological process through which long-lasting reductions in response are thought to be produced"
+                },
+                {
+                    "label": "B",
+                    "text": "provide an example of a process that subjects would probably not experience during a prolonged period of odorant stimulation"
+                },
+                {
+                    "label": "C",
+                    "text": "help illustrate how the information gathered from most olfactory research may not be sufficient to describe the effects of extended exposures to odors"
+                },
+                {
+                    "label": "D",
+                    "text": "show how studies of short-term olfactory adaptation have only accounted for the reductions in response that follow relatively brief absences from an odorous environment"
+                },
+                {
+                    "label": "E",
+                    "text": "qualify a statement about the severity and duration of the perceptual changes caused by exposure to chronically present ambient odors"
                 }
             ],
             "answer": ["C"],
@@ -1192,23 +1127,18 @@
             "type": "reading_comprehension",
             "lines_id": "S3_Questions_9_11",
             "prompt": "The passage suggests that an adherent to the \"orthodox position\" (line 3) would agree with which of the following statements?",
-            "blanks": [
+            "choices": [
                 {
-                    "id": "i",
-                    "choices": [
-                        {
-                            "label": "A",
-                            "text": "Northern Renaissance prints should be regarded as passive representations of their time."
-                        },
-                        {
-                            "label": "B",
-                            "text": "Northern Renaissance prints were part of a campaign aimed at altering contemporary thinking."
-                        },
-                        {
-                            "label": "C",
-                            "text": "Northern Renaissance prints provide reliable records of contemporary events, opinions, and beliefs."
-                        }
-                    ]
+                    "label": "A",
+                    "text": "Northern Renaissance prints should be regarded as passive representations of their time."
+                },
+                {
+                    "label": "B",
+                    "text": "Northern Renaissance prints were part of a campaign aimed at altering contemporary thinking."
+                },
+                {
+                    "label": "C",
+                    "text": "Northern Renaissance prints provide reliable records of contemporary events, opinions, and beliefs."
                 }
             ],
             "answer": ["A", "C"],
@@ -1220,31 +1150,26 @@
             "type": "reading_comprehension",
             "lines_id": "S3_Questions_24_25",
             "prompt": "Replacement of the word \"passive\" (line 5) with which of the following words results in the least change in meaning for the passage?",
-            "blanks": [
+            "choices": [
                 {
-                    "id": "i",
-                    "choices": [
-                        {
-                            "label": "A",
-                            "text": "disinterested"
-                        },
-                        {
-                            "label": "B",
-                            "text": "submissive"
-                        },
-                        {
-                            "label": "C",
-                            "text": "flaccid"
-                        },
-                        {
-                            "label": "D",
-                            "text": "supine"
-                        },
-                        {
-                            "label": "E",
-                            "text": "unreceptive"
-                        }
-                    ]
+                    "label": "A",
+                    "text": "disinterested"
+                },
+                {
+                    "label": "B",
+                    "text": "submissive"
+                },
+                {
+                    "label": "C",
+                    "text": "flaccid"
+                },
+                {
+                    "label": "D",
+                    "text": "supine"
+                },
+                {
+                    "label": "E",
+                    "text": "unreceptive"
                 }
             ],
             "answer": ["A"],
@@ -1256,31 +1181,26 @@
             "type": "reading_comprehension",
             "lines_id": "S3_Questions_24_25",
             "prompt": "Which of the following, if true, most strengthens the argument?",
-            "blanks": [
+            "choices": [
                 {
-                    "id": "i",
-                    "choices": [
-                        {
-                            "label": "A",
-                            "text": "The levels of the compounds typically used in boat paints today are lower than they were in boat paints manufactured a decade ago."
-                        },
-                        {
-                            "label": "B",
-                            "text": "In high concentrations, the compounds are toxic to many types of marine animals."
-                        },
-                        {
-                            "label": "C",
-                            "text": "The compounds break down into harmless substances after a few months of exposure to water or air."
-                        },
-                        {
-                            "label": "D",
-                            "text": "High tissue levels of the compounds have recently been found in some marine animals, but there is no record of any of those animals dying in unusually large numbers recently."
-                        },
-                        {
-                            "label": "E",
-                            "text": "The compounds do not leach out of the boat paint if the paint is applied exactly in accordance with the manufacturer's directions."
-                        }
-                    ]
+                    "label": "A",
+                    "text": "The levels of the compounds typically used in boat paints today are lower than they were in boat paints manufactured a decade ago."
+                },
+                {
+                    "label": "B",
+                    "text": "In high concentrations, the compounds are toxic to many types of marine animals."
+                },
+                {
+                    "label": "C",
+                    "text": "The compounds break down into harmless substances after a few months of exposure to water or air."
+                },
+                {
+                    "label": "D",
+                    "text": "High tissue levels of the compounds have recently been found in some marine animals, but there is no record of any of those animals dying in unusually large numbers recently."
+                },
+                {
+                    "label": "E",
+                    "text": "The compounds do not leach out of the boat paint if the paint is applied exactly in accordance with the manufacturer's directions."
                 }
             ],
             "answer": ["C"],
@@ -2215,7 +2135,7 @@
         "S5Q2": {
             "section": 5,
             "type": "quantity_comparison",
-            "not-applicable": false,
+            "not_applicable": false,
             "prompt": "Compare Quantity A and Quantity B, using additional information centered above the two quantities if such information is given. Select one of the following four answer choices and fill in the corresponding circle to the right of the question. A symbol that appears more than once in a question has the same meaning throughout the question.",
             "context": "In a decimal number, a bar over one or more consecutive digits means that the pattern of digits under the bar repeats without end. For example $0.\\overline{387}=0.387387387...$ ",
             "quantities": {
@@ -2247,7 +2167,7 @@
         "S5Q3": {
             "section": 5,
             "type": "quantity_comparison",
-            "not-applicable": false,
+            "not_applicable": false,
             "prompt": "Compare Quantity A and Quantity B, using additional information centered above the two quantities if such information is given. Select one of the following four answer choices and fill in the corresponding circle to the right of the question. A symbol that appears more than once in a question has the same meaning throughout the question.",
             "context": "4 percent of $s$ is equal to 3 percent of $t$, where $s > 0$ and $t > 0$.",
             "quantities": {
@@ -2279,34 +2199,29 @@
         "S5Q4": {
             "section": 5,
             "type": "quantity_comparison",
-            "not-applicable": true,
+            "not_applicable": true,
             "prompt": "Compare Quantity A and Quantity B, using additional information centered above the two quantities if such information is given. Select one of the following four answer choices and fill in the corresponding circle to the right of the question. A symbol that appears more than once in a question has the same meaning throughout the question.",
             "context": "Three circles with their centers on line segment $PQ$ are tangent at points $P$, $R$, and $Q$, where point $R$ lies on line segment $PQ$.",
             "quantities": {
                 "A": "$The circumference of the largest circle$",
                 "B": "$The sum of the circumfrences of the two smaller circles$"
             },
-            "blanks": [
+            "choices": [
                 {
-                    "id": "i",
-                    "choices": [
-                        {
-                            "label": "A",
-                            "text": "Quantity A is greater"
-                        },
-                        {
-                            "label": "B",
-                            "text": "Quantity B is greater"
-                        },
-                        {
-                            "label": "C",
-                            "text": "The two quantities are equal"
-                        },
-                        {
-                            "label": "D",
-                            "text": "The relationship cannot be determined from the information given."
-                        }
-                    ]
+                    "label": "A",
+                    "text": "Quantity A is greater"
+                },
+                {
+                    "label": "B",
+                    "text": "Quantity B is greater"
+                },
+                {
+                    "label": "C",
+                    "text": "The two quantities are equal"
+                },
+                {
+                    "label": "D",
+                    "text": "The relationship cannot be determined from the information given."
                 }
             ],
             "answer": ["C"],
@@ -2316,34 +2231,29 @@
         "S5Q5": {
             "section": 5,
             "type": "quantity_comparison",
-            "not-applicable": false,
+            "not_applicable": false,
             "prompt": "Compare Quantity A and Quantity B, using additional information centered above the two quantities if such information is given. Select one of the following four answer choices and fill in the corresponding circle to the right of the question. A symbol that appears more than once in a question has the same meaning throughout the question.",
             "context": "$rt < 0 < -r$",
             "quantities": {
                 "A": "$t$",
                 "B": "$0$"
             },
-            "blanks": [
+            "choices": [
                 {
-                    "id": "i",
-                    "choices": [
-                        {
-                            "label": "A",
-                            "text": "Quantity A is greater"
-                        },
-                        {
-                            "label": "B",
-                            "text": "Quantity B is greater"
-                        },
-                        {
-                            "label": "C",
-                            "text": "The two quantities are equal"
-                        },
-                        {
-                            "label": "D",
-                            "text": "The relationship cannot be determined from the information given."
-                        }
-                    ]
+                    "label": "A",
+                    "text": "Quantity A is greater"
+                },
+                {
+                    "label": "B",
+                    "text": "Quantity B is greater"
+                },
+                {
+                    "label": "C",
+                    "text": "The two quantities are equal"
+                },
+                {
+                    "label": "D",
+                    "text": "The relationship cannot be determined from the information given."
                 }
             ],
             "answer": ["A"],
@@ -2353,34 +2263,29 @@
         "S5Q6": {
             "section": 5,
             "type": "quantity_comparison",
-            "not-applicable": false,
+            "not_applicable": false,
             "prompt": "Compare Quantity A and Quantity B, using additional information centered above the two quantities if such information is given. Select one of the following four answer choices and fill in the corresponding circle to the right of the question. A symbol that appears more than once in a question has the same meaning throughout the question.",
             "context": "$x > y$",
             "quantities": {
                 "A": "$|x + y|$",
-                "B": "$|x - y$"
+                "B": "$|x - y|$"
             },
-            "blanks": [
+            "choices": [
                 {
-                    "id": "i",
-                    "choices": [
-                        {
-                            "label": "A",
-                            "text": "Quantity A is greater"
-                        },
-                        {
-                            "label": "B",
-                            "text": "Quantity B is greater"
-                        },
-                        {
-                            "label": "C",
-                            "text": "The two quantities are equal"
-                        },
-                        {
-                            "label": "D",
-                            "text": "The relationship cannot be determined from the information given."
-                        }
-                    ]
+                    "label": "A",
+                    "text": "Quantity A is greater"
+                },
+                {
+                    "label": "B",
+                    "text": "Quantity B is greater"
+                },
+                {
+                    "label": "C",
+                    "text": "The two quantities are equal"
+                },
+                {
+                    "label": "D",
+                    "text": "The relationship cannot be determined from the information given."
                 }
             ],
             "answer": ["D"],
@@ -2390,34 +2295,29 @@
         "S5Q7": {
             "section": 5,
             "type": "quantity_comparison",
-            "not-applicable": false,
+            "not_applicable": false,
             "prompt": "Compare Quantity A and Quantity B, using additional information centered above the two quantities if such information is given. Select one of the following four answer choices and fill in the corresponding circle to the right of the question. A symbol that appears more than once in a question has the same meaning throughout the question.",
             "context": "In the $xy$-plane, the points $(a, 0)$ and $(0, b)$ are on the line whose equation is $y = \frac{1}{2}x + 10$",
             "quantities": {
-                "A": "$|x + y|$",
-                "B": "$|x - y$"
+                "A": "$a$",
+                "B": "$b$"
             },
-            "blanks": [
+            "choices": [
                 {
-                    "id": "i",
-                    "choices": [
-                        {
-                            "label": "A",
-                            "text": "Quantity A is greater"
-                        },
-                        {
-                            "label": "B",
-                            "text": "Quantity B is greater"
-                        },
-                        {
-                            "label": "C",
-                            "text": "The two quantities are equal"
-                        },
-                        {
-                            "label": "D",
-                            "text": "The relationship cannot be determined from the information given."
-                        }
-                    ]
+                    "label": "A",
+                    "text": "Quantity A is greater"
+                },
+                {
+                    "label": "B",
+                    "text": "Quantity B is greater"
+                },
+                {
+                    "label": "C",
+                    "text": "The two quantities are equal"
+                },
+                {
+                    "label": "D",
+                    "text": "The relationship cannot be determined from the information given."
                 }
             ],
             "answer": ["B"],
@@ -2427,34 +2327,29 @@
         "S5Q8": {
             "section": 5,
             "type": "quantity_comparison",
-            "not-applicable": true,
+            "not_applicable": true,
             "prompt": "Compare Quantity A and Quantity B, using additional information centered above the two quantities if such information is given. Select one of the following four answer choices and fill in the corresponding circle to the right of the question. A symbol that appears more than once in a question has the same meaning throughout the question.",
             "context": "The frequency distributions shown above represent two groups of data. Each of the data values is a multiple of 10.",
             "quantities": {
                 "A": "The standard deviation of distribution $A$",
                 "B": "The standard deviation of distribution $B$"
             },
-            "blanks": [
+            "choices": [
                 {
-                    "id": "i",
-                    "choices": [
-                        {
-                            "label": "A",
-                            "text": "Quantity A is greater"
-                        },
-                        {
-                            "label": "B",
-                            "text": "Quantity B is greater"
-                        },
-                        {
-                            "label": "C",
-                            "text": "The two quantities are equal"
-                        },
-                        {
-                            "label": "D",
-                            "text": "The relationship cannot be determined from the information given."
-                        }
-                    ]
+                    "label": "A",
+                    "text": "Quantity A is greater"
+                },
+                {
+                    "label": "B",
+                    "text": "Quantity B is greater"
+                },
+                {
+                    "label": "C",
+                    "text": "The two quantities are equal"
+                },
+                {
+                    "label": "D",
+                    "text": "The relationship cannot be determined from the information given."
                 }
             ],
             "answer": ["B"],
@@ -2464,34 +2359,29 @@
         "S5Q9": {
             "section": 5,
             "type": "quantity_comparison",
-            "not-applicable": false,
+            "not_applicable": false,
             "prompt": "Compare Quantity A and Quantity B, using additional information centered above the two quantities if such information is given. Select one of the following four answer choices and fill in the corresponding circle to the right of the question. A symbol that appears more than once in a question has the same meaning throughout the question.",
             "context": "One person is to be selected at random from a group of 25 people. The probability that the selected person will be a male is 0.44, and the probability that the selected person will be a male who was born before 1960 is 0.28.",
             "quantities": {
                 "A": "The number of males in the group who were born in 1960 or later",
                 "B": "4"
             },
-            "blanks": [
+            "choices": [
                 {
-                    "id": "i",
-                    "choices": [
-                        {
-                            "label": "A",
-                            "text": "Quantity A is greater"
-                        },
-                        {
-                            "label": "B",
-                            "text": "Quantity B is greater"
-                        },
-                        {
-                            "label": "C",
-                            "text": "The two quantities are equal"
-                        },
-                        {
-                            "label": "D",
-                            "text": "The relationship cannot be determined from the information given."
-                        }
-                    ]
+                    "label": "A",
+                    "text": "Quantity A is greater"
+                },
+                {
+                    "label": "B",
+                    "text": "Quantity B is greater"
+                },
+                {
+                    "label": "C",
+                    "text": "The two quantities are equal"
+                },
+                {
+                    "label": "D",
+                    "text": "The relationship cannot be determined from the information given."
                 }
             ],
             "answer": ["C"],
@@ -2501,7 +2391,7 @@
         "S5Q10": {
             "section": 5,
             "type": "numeric_entry",
-            "not-applicable": true,
+            "not_applicable": true,
             "prompt": "At Company Y, the ratio of the number of female employees to the number of male employees is 3 to 2. If there are 150 female employees at the company, how many male employees are there at the company?",
             "answer": ["100"],
             "p+": 84,
@@ -2510,7 +2400,7 @@
         "S5Q11": {
             "section": 5,
             "type": "multiple_choice",
-            "not-applicable": false,
+            "not_applicable": false,
             "prompt": "If $\\frac{a - b}{a + b} = 2$, and $b = 1$, what is the value of $a$?",
             "choices": {
                 "A": "1",
@@ -2526,7 +2416,7 @@
         "S5Q12": {
             "section": 5,
             "type": "multiple_choice",
-            "not-applicable": false,
+            "not_applicable": false,
             "prompt": "The floor space in a certain market is rented for $15 per 30 square feet for one day. In the market, Alice rented a rectangular floor space that measured 8 feet by 15 feet, and Betty rented a rectangular floor space that measured 15 feet by 20 feet. If each woman rented her floor space for one day, how much more did Betty pay than Alice?",
             "choices": {
                 "A": "$27",
@@ -2542,7 +2432,7 @@
         "S5Q13": {
             "section": 5,
             "type": "multiple_choice",
-            "not-applicable": false,
+            "not_applicable": false,
             "prompt": "A business owner obtained a $6,000 loan at a simple annual interest rate of $r$ percent in order to purchase a computer. After one year, the owner made a single payment of $6,840 to repay the loan, including the interest. What is the value of $r$?",
             "choices": {
                 "A": "7.0",
@@ -2558,7 +2448,7 @@
         "S5Q14": {
             "section": 5,
             "type": "numeric_entry",
-            "not-applicable": true,
+            "not_applicable": true,
             "prompt": "If the average (arithmentic mean) of the 3 numbers in list $L$ is $\frac{10}{3}$, what is the average of the 5 numbers in list $M$? Give your answer as a fraction",
             "context": "List $L: 2, x, y$ \n List $M: 1, 2, 3, x, y$",
             "answer": ["14/5"],
@@ -2568,7 +2458,7 @@
         "S5Q15": {
             "section": 5,
             "type": "multiple_choice",
-            "not-applicable": false,
+            "not_applicable": false,
             "prompt": "Which of the following inequalities have at least one positive solution and at least one negative solution? Indicate *all* such inequalities",
             "choices": {
                 "A": "$\frac{5}{3}x < x$",
@@ -2582,7 +2472,7 @@
         "S5Q16": {
             "section": 5,
             "type": "multiple_choice",
-            "not-applicable": false,
+            "not_applicable": false,
             "prompt": "If $\\left( 5 ^ {5x} \\right) (25) = 5^n$, where $n$ and $x$ are integers, what is the value of $n$ in terms of $x$?",
             "choices": {
                 "A": "$5x + 1$",
@@ -2598,7 +2488,7 @@
         "S5Q17": {
             "section": 5,
             "type": "multiple_choice",
-            "not-applicable": true,
+            "not_applicable": true,
             "prompt": "What is the median of the percent values representing gasoline tax revenue as a percent of total retail gasoline sales for the nine countries listed in the bar graph?",
             "choices": {
                 "A": "67.6%",
@@ -2614,7 +2504,7 @@
         "S5Q18": {
             "section": 5,
             "type": "multiple_choice",
-            "not-applicable": true,
+            "not_applicable": true,
             "prompt": "What is the median of the percent values representing gasoline tax revenue as a percent of total retail gasoline sales for the nine countries listed in the bar graph?",
             "context": "For the following question, select *all* the answer choices that apply.",
             "choices": {
@@ -2629,7 +2519,7 @@
         "S5Q19": {
             "section": 5,
             "type": "multiple_choice",
-            "not-applicable": true,
+            "not_applicable": true,
             "prompt": "In 2000 the amount of Germany's gasoline tax revenue was approximately what percent less than the amount of its income tax revenue?",
             "choices": {
                 "A": "10%",
@@ -2645,7 +2535,7 @@
         "S5Q20": {
             "section": 5,
             "type": "multiple_choice",
-            "not-applicable": true,
+            "not_applicable": true,
             "prompt": "If Germany's total tax revenue in 2000 was approximately $170 billion, approximately what was the amount of the total retail gasoline sales in Germany that year?",
             "choices": {
                 "A": "$10 billion",
@@ -2661,7 +2551,7 @@
         "S5Q21": {
             "section": 5,
             "type": "multiple_choice",
-            "not-applicable": false,
+            "not_applicable": false,
             "prompt": "Of the 180 judges appointed by a certain President, 30 percent were women and 25 percent were from minority groups. If $\\frac{1}{9}$ of the women appointed were from minority groups, how many of the judges appointed were neither women nor from minority groups?",
             "choices": {
                 "A": "75",
@@ -2677,7 +2567,7 @@
         "S5Q22": {
             "section": 5,
             "type": "multiple_choice",
-            "not-applicable": false,
+            "not_applicable": false,
             "prompt": "If an integer is divisible by both 8 and 15, then the integer also must be divisible by which of the following?",
             "choices": {
                 "A": "16",
@@ -2693,7 +2583,7 @@
         "S5Q23": {
             "section": 5,
             "type": "multiple_choice",
-            "not-applicable": false,
+            "not_applicable": false,
             "prompt": "A certain experiment has three possible outcomes. The outcomes are mutually exclusive and have probabilities $p$, $\\frac{p}{2}$ and $\\frac{p}{4} respectively. What is the value of $p$?",
             "choices": {
                 "A": "$\\frac{1}{7}$",
@@ -2709,7 +2599,7 @@
         "S5Q24": {
             "section": 5,
             "type": "multiple_choice",
-            "not-applicable": false,
+            "not_applicable": false,
             "prompt": "In triangle $ABC$, the measure of angle $B$ is 90º, the length of side $AB$ is 4, and the length of side $BC$ is $x$. If the length of hypotenuse $AC$ is between 4 and 8, which of the following could be the value of $x$? Indicate *all* such values",
             "context": "For the following question, select *all* the answer choices that apply.",
             "choices": {
@@ -2727,7 +2617,7 @@
         "S5Q25": {
             "section": 5,
             "type": "multiple_choice",
-            "not-applicable": false,
+            "not_applicable": false,
             "prompt": "Each month, a certain manufacturing company's total expenses are equal to a fixed monthly expense plus a variable expense that is directly proportional to the number of units produced by the company during that month. If the company's total expenses for a month in which it produces 20,000 units are $570,000, and the total expenses for a month in which it produces 25,000 units are $705,000, what is the company's fixed monthly expense?",
             "choices": {
                 "A": "$27,000",
@@ -2743,7 +2633,7 @@
         "S6Q1": {
             "section": 6,
             "type": "quantity_comparison",
-            "not-applicable": false,
+            "not_applicable": false,
             "prompt": "", 
             "context": "The length of each side of equilateral triangle T is 6 times the length of each side of equilateral triangle X.", 
             "quantities": {
@@ -2775,7 +2665,7 @@
         "S6Q2": {
             "section": 6,
             "type": "quantity_comparison",
-            "not-applicable": false,
+            "not_applicable": false,
             "prompt": "",
             "context": "Of 30 theater tickets sold, 20 tickets were sold at prices between $10 and $30 each and 10 tickets were sold at prices between $40 and $60 each.",
             "quantities": {
@@ -2807,7 +2697,7 @@
         "S6Q3": {
             "section": 6,
             "type": "quantity_comparison",
-            "not-applicable": false,
+            "not_applicable": false,
             "prompt": "",
             "context": "$x > 1$",
             "quantities": {
@@ -2839,7 +2729,7 @@
         "S6Q4": {
             "section": 6,
             "type": "quantity_comparison",
-            "not-applicable": false,
+            "not_applicable": false,
             "prompt": "",
             "context": "In the xy-plane, the point (1, 2) is on line j, and the point (2, 1) is on line k. Each of the lines has a positive slope.",
             "quantities": {
@@ -2871,7 +2761,7 @@
         "S6Q5": {
             "section": 6,
             "type": "quantity_comparison",
-            "not-applicable": false,
+            "not_applicable": false,
             "prompt": "T is a list of 100 different numbers that are greater than 0 and less than 50. The number x is greater than 60 percent of the numbers in T, and the number y is greater than 40 percent of the numbers in T.",
             "context": "",
             "quantities": {
@@ -2903,7 +2793,7 @@
         "S6Q6": {
             "section": 6,
             "type": "quantity_comparison",
-            "not-applicable": false,
+            "not_applicable": false,
             "prompt": "",
             "context": "$n$ is a positive integer",
             "quantities": {
@@ -2935,7 +2825,7 @@
         "S6Q7": {
             "section": 6,
             "type": "quantity_comparison",
-            "not-applicable": false,
+            "not_applicable": false,
             "prompt": "A right circular cylinder with radius 2 inches has volume 15 cubic inches",
             "context": "",
             "quantities": {
@@ -2967,7 +2857,7 @@
         "S6Q8": {
             "section": 6,
             "type": "quantity_comparison",
-            "not-applicable": false,
+            "not_applicable": false,
             "prompt": "$k$ is an integer for which $\\frac{1}{2^{1-k}} < \\frac{1}{8}$\nQuantity A: $k$\nQuantity B: $-2$",
             "context": "",
             "quantities": {
@@ -2999,7 +2889,7 @@
         "S6Q9": {
             "section": 6,
             "type": "quantity_comparison",
-            "not-applicable": false,
+            "not_applicable": false,
             "prompt": "",
             "context": "$n$ is an integer greater than 0",
             "quantities": {
@@ -3031,7 +2921,7 @@
         "S6Q10": {
             "section": 6,
             "type": "multiple_choice",
-            "not-applicable": false,
+            "not_applicable": false,
             "prompt": "Working at their respective constant rates, machine I makes 240 copies in 8 minutes and machine II makes 240 copies in 5 minutes. At these rates, how many more copies does machine II make in 4 minutes than machine I makes in 6 minutes?",
             "choices": {
                 "A": "6",
@@ -3047,7 +2937,7 @@
         "S6Q11": {
             "section": 6,
             "type": "numeric_entry",
-            "not-applicable": true,
+            "not_applicable": true,
             "prompt": "Among the people attending a convention in Europe, 32 percent traveled from Asia and 45 percent of those who traveled from Asia are women. What percent of the people at the convention are women who traveled from Asia?",
             "answer": ["14.4"],
             "p+": 71,
@@ -3056,7 +2946,7 @@
         "S6Q12": {
             "section": 6,
             "type": "multiple_choice",
-            "not-applicable": false,
+            "not_applicable": false,
             "prompt": "In the xy-plane, points R and S have coordinates (-2, 1) and (4, -7), respectively. If point P is the midpoint of line segment RS, what are the coordinates of point P?",
             "choices": {
                 "A": "(-1, -4)",
@@ -3073,7 +2963,7 @@
         "S6Q13": {
             "section": 6,
             "type": "multiple_choice",
-            "not-applicable": false,
+            "not_applicable": false,
             "prompt": "Steve's property tax is $140 less than Patricia's property tax. If Steve's property tax is $1,960, then Steve's property tax is what percent less than Patricia's property tax, to the nearest 0.1 percent?",
             "choices": {
                 "A": "6.7%",
@@ -3090,7 +2980,7 @@
         "S6Q14": {
             "section": 6,
             "type": "multiple_choice",
-            "not-applicable": false,
+            "not_applicable": false,
             "prompt": "A base of a triangle has length b, the altitude corresponding to the base has length h, and b = 2h. Which of the following expresses the area of the triangle, in terms of h?",
             "choices": {
                 "A": "\\frac{1}{2}h^2",
@@ -3107,7 +2997,7 @@
         "S6Q15": {
             "section": 6,
             "type": "multiple_choice",
-            "not-applicable": false,
+            "not_applicable": false,
             "prompt": "How many different two-digit positive integers are there in which the tens digit is greater than 6 and the units digit is less than 4?",
             "choices": {
                 "A": "7",
@@ -3123,7 +3013,7 @@
         "S6Q16": {
             "section": 6,
             "type": "multiple_choice",
-            "not-applicable": false,
+            "not_applicable": false,
             "prompt": "Chris entered a number in his calculator and erroneously multiplied the number by 2,073 instead of 2.073, getting an incorrect product. Which of the following is a single operation that Chris could perform on his calculator to correct the error?",
             "context": "Indicate *all* such operations",
             "choices": {
@@ -3139,7 +3029,7 @@
         "S6Q21": {
             "section": 6,
             "type": "numeric_entry",
-            "not-applicable": true,
+            "not_applicable": true,
             "prompt": "If $\\sqrt[3]{x} = 3$ and $x = \\sqrt{y}$, what is the value of y? y = ",
             "answer": ["14.4"],
             "p+": 71,
@@ -3148,7 +3038,7 @@
         "S6Q22": {
             "section": 6,
             "type": "multiple_choice",
-            "not-applicable": true,
+            "not_applicable": true,
             "prompt": "The figure shows the standard normal distribution, with mean 0 and standard deviation 1, including approximate percents of the distribution corresponding to the six regions shown. Ian rode the bus to work last year. His travel times to work were approximately normally distributed, with a mean of 35 minutes and a standard deviation of 5 minutes. According to the figure shown, approximately what percent of Ian's travel times to work last year were less than 40 minutes?",
             "choices": {
                 "A": "14%",
@@ -3164,7 +3054,7 @@
         "S6Q23": {
             "section": 6,
             "type": "multiple_choice",
-            "not-applicable": false,
+            "not_applicable": false,
             "prompt": "If a and b are integers and $f(a) + f(b) = a + b$, which of the following statements must be true?",
             "context": "For all integers, $x$, the function $f$ is defined as follows: $\\f(x) = \\begin{cases} x-1 & \\text{if } x \\text{ is even} \\ \\ x+1 & \\text{if } x \\text{ is odd} \\end{cases}$",
             "choices": {
@@ -3180,7 +3070,7 @@
         "S6Q24": {
             "section": 5,
             "type": "multiple_choice",
-            "not-applicable": false,
+            "not_applicable": false,
             "prompt": "If $y^{-2} + 2 y^{-1} - 15 = 0$, which of the following could be the value of $y$?",
             "context": "Indicate *all* such operations",
             "choices": {
@@ -3197,7 +3087,7 @@
         "S6Q25": {
             "section": 6,
             "type": "multiple_choice",
-            "not-applicable": false,
+            "not_applicable": false,
             "prompt": "$3.7, 4.1, a, 8.5, 9.2, 2a$ \n The six numbers shown are listed in increasing order. Which of the following values could be the range of the six numbers?",
             "context": "Indicate *all* such values",
             "choices": {
